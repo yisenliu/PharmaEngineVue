@@ -1,0 +1,871 @@
+{
+    "source": "mockoon:1.10.0",
+    "data": [
+        {
+            "type": "environment",
+            "item": {
+                "uuid": "",
+                "lastMigration": 12,
+                "name": "PharmaEngine",
+                "endpointPrefix": "",
+                "latency": 500,
+                "port": 3000,
+                "routes": [
+                    {
+                        "uuid": "",
+                        "documentation": "Get breadcrumbs from the database",
+                        "method": "get",
+                        "endpoint": "api/get/:pageName/breadcrumbs",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "Sorry! The path is invalid.",
+                                "latency": 500,
+                                "statusCode": 200,
+                                "label": "default response",
+                                "headers": [
+                                    {
+                                        "key": "Content-Type",
+                                        "value": "text/plain"
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\n  {\n    \"text\": \"PHARMAENGINE\",\n    \"href\": \"/\"\n  },\n  {\n    \"text\": \"關於智擎\",\n    \"href\": null\n  }\n]",
+                                "latency": 500,
+                                "statusCode": 200,
+                                "label": "about",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "about",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"關於智擎\",\r\n        \"href\": \"/about\"\r\n    },\r\n    {\r\n        \"text\": \"經營模式\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "businessModel",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "businessModel",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"檢舉制度\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "whistleblowerSystem",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "whistleblowerSystem",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"關於智擎\",\r\n        \"href\": \"/about\"\r\n    },\r\n    {\r\n        \"text\": \"獨立董事溝通政策\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "IDCP",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "whistleblowerSystem",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"公司治理\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "corporateGovernance",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "corporateGovernance",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"新聞發佈\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "newsView",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "newsView",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"活動訊息\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "eventView",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "eventView",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"關於智擎\",\r\n        \"href\": \"/about\"\r\n    },\r\n    {\r\n        \"text\": \"董事會組織\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "boardOrganization",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "boardOrganization",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"人才招募\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "career",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "career",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"利害關係人\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "stakeholder",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "stakeholder",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "investors",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "investors",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"研究與發展\",\r\n        \"href\": \"/rd\"\r\n    },\r\n    {\r\n        \"text\": \"安能得\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "rdView",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "rdView",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"股東會相關訊息\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "shareholdersMeeting",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "shareholdersMeeting",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"聯繫我們\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "contact",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "contact",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"財務資訊\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "financialInfos",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "financialInfos",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"投資人訊息\",\r\n        \"href\": \"/investors\"\r\n    },\r\n    {\r\n        \"text\": \"活動訊息\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "events",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "events",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"研究與發展\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "rd",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "rd",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"新聞發佈\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "news",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "news",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"關於智擎\",\r\n        \"href\": \"/about\"\r\n    },\r\n    {\r\n        \"text\": \"沿革與里程碑\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "historyMilestones",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "historyMilestones",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"關於智擎\",\r\n        \"href\": \"/about\"\r\n    },\r\n    {\r\n        \"text\": \"企業社會責任專區\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "CSR",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "CSR",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"text\": \"PHARMAENGINE\",\r\n        \"href\": \"/\"\r\n    },\r\n    {\r\n        \"text\": \"關於智擎\",\r\n        \"href\": \"/about\"\r\n    },\r\n    {\r\n        \"text\": \"主要經營團隊\",\r\n        \"href\": null\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "managementTeam",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "pageName",
+                                        "value": "managementTeam",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "Get the navigation for pages",
+                        "method": "get",
+                        "endpoint": "api/get/navigation",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"navLink\": {\r\n            \"text\": \"關於智擎\",\r\n            \"href\": \"javascript:;\"\r\n        },\r\n        \"subListClass\": \"nav__subList--about\",\r\n        \"navSubItems\": [\r\n            {\r\n                \"text\": \"公司簡介\",\r\n                \"href\": \"/about\",\r\n                \"isActive\": true\r\n            },\r\n            {\r\n                \"text\": \"經營模式\",\r\n                \"href\": \"/businessModel\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"董事會組織\",\r\n                \"href\": \"/boardOrganization\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"獨立董事溝通政策\",\r\n                \"href\": \"/IDCP\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"主要經營團隊\",\r\n                \"href\": \"/managementTeam\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"沿革與里程碑\",\r\n                \"href\": \"/historyMilestones\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"企業社會責任專區\",\r\n                \"href\": \"/CSR\",\r\n                \"isActive\": false\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"navLink\": {\r\n            \"text\": \"研究與發展\",\r\n            \"href\": \"/rd\"\r\n        }\r\n    },\r\n    {\r\n        \"navLink\": {\r\n            \"text\": \"投資人訊息\",\r\n            \"href\": \"javascript:;\"\r\n        },\r\n        \"subListClass\": \"nav__subList--investors\",\r\n        \"navSubItems\": [\r\n            {\r\n                \"text\": \"投資人訊息總覽\",\r\n                \"href\": \"/investors\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"財務資訊\",\r\n                \"href\": \"/financialInfos\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"股東會相關訊息\",\r\n                \"href\": \"/shareholdersMeeting\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"公司治理\",\r\n                \"href\": \"/corporateGovernance\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"利害關係人\",\r\n                \"href\": \"/stakeholder\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"檢舉制度\",\r\n                \"href\": \"/whistleblowerSystem\",\r\n                \"isActive\": false\r\n            },\r\n            {\r\n                \"text\": \"活動訊息\",\r\n                \"href\": \"/events\",\r\n                \"isActive\": false\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"navLink\": {\r\n            \"text\": \"新聞發佈\",\r\n            \"href\": \"/news\"\r\n        }\r\n    },\r\n    {\r\n        \"navLink\": {\r\n            \"text\": \"人才招募\",\r\n            \"href\": \"/career\"\r\n        }\r\n    },\r\n    {\r\n        \"navLink\": {\r\n            \"text\": \"聯繫我們\",\r\n            \"href\": \"/contact\"\r\n        }\r\n    }\r\n]\r\n",
+                                "latency": 300,
+                                "statusCode": 200,
+                                "label": "main",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "query",
+                                        "modifier": "id",
+                                        "value": "main",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "[\r\n    {\r\n        \"image\": \"/images/iStock-513905573-320.jpg 320w,/images/iStock-513905573-680.jpg 680w\",\r\n        \"caption\": \"投資人總覽\",\r\n        \"href\": \"/investors\",\r\n        \"name\": \"investors\"\r\n    },\r\n    {\r\n        \"image\": \"/images/iStock-916803922-320.jpg 320w,/images/iStock-916803922-680.jpg 680w\",\r\n        \"caption\": \"財務資訊\",\r\n        \"href\": \"/financialInfos\",\r\n        \"name\": \"financialInfos\"\r\n    },\r\n    {\r\n        \"image\": \"/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w\",\r\n        \"caption\": \"股東會相關訊息\",\r\n        \"href\": \"/shareholdersMeeting\",\r\n        \"name\": \"shareholdersMeeting\"\r\n    },\r\n    {\r\n        \"image\": \"/images/iStock-649495828-320.jpg 320w,/images/iStock-649495828-680.jpg 680w\",\r\n        \"caption\": \"公司治理\",\r\n        \"href\": \"/corporateGovernance\",\r\n        \"name\": \"corporateGovernance\"\r\n    },\r\n    {\r\n        \"image\": \"/images/pixta_57712058_M-320.jpg 320w,/images/pixta_57712058_M-680.jpg 680w\",\r\n        \"caption\": \"利害關係人\",\r\n        \"href\": \"/stakeholder\",\r\n        \"name\": \"stakeholder\"\r\n    },\r\n    {\r\n        \"image\": \"/images/pixta_51337269_M-320.jpg 320w,/images/pixta_51337269_M-680.jpg 680w\",\r\n        \"caption\": \"檢舉制度\",\r\n        \"href\": \"/whistleblowerSystem\",\r\n        \"name\": \"whistleblowerSystem\"\r\n    },\r\n    {\r\n        \"image\": \"/images/iStock-1046832538-320.jpg 320w,/images/iStock-1046832538-680.jpg 680w\",\r\n        \"caption\": \"活動訊息\",\r\n        \"href\": \"/events\",\r\n        \"name\": \"events\"\r\n    }\r\n]",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "investors",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "query",
+                                        "modifier": "id",
+                                        "value": "investors",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "Post form data",
+                        "method": "post",
+                        "endpoint": "api/post",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "",
+                                "latency": 10000,
+                                "statusCode": 200,
+                                "label": "contact",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "query",
+                                        "modifier": "form",
+                                        "value": "contact",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "AND",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "",
+                                "latency": 1000,
+                                "statusCode": 200,
+                                "label": "events",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "query",
+                                        "modifier": "form",
+                                        "value": "events",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "",
+                                "latency": 1000,
+                                "statusCode": 200,
+                                "label": "career",
+                                "headers": [],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "query",
+                                        "modifier": "form",
+                                        "value": "career",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "",
+                        "method": "post",
+                        "endpoint": "api/recaptcha/siteverify",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "{\r\n  \"action\": \"doSomething\",\r\n  \"success\": true,\r\n  \"challenge_ts\": \"{{now}}\",\r\n  \"hostname\": \"{{ip}}\",\r\n  \"score\": 0.9\r\n}\r\n",
+                                "latency": 1000,
+                                "statusCode": 200,
+                                "label": "",
+                                "headers": [
+                                    {
+                                        "key": "",
+                                        "value": ""
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "query",
+                                        "modifier": "secret",
+                                        "value": "6LeaXbUZAAAAANuffXMb32K2RFsyHoBHOtSXN7zZ",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    }
+                ],
+                "proxyMode": false,
+                "proxyHost": "",
+                "https": true,
+                "cors": true,
+                "headers": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    },
+                    {
+                        "key": "Access-Control-Allow-Origin",
+                        "value": "*"
+                    },
+                    {
+                        "key": "Access-Control-Allow-Methods",
+                        "value": "GET,POST,PUT,PATCH,DELETE,HEAD,OPTIONS"
+                    },
+                    {
+                        "key": "Access-Control-Allow-Headers",
+                        "value": "Content-Type, Origin, Accept, Authorization, Content-Length, X-Requested-With"
+                    }
+                ],
+                "proxyReqHeaders": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ],
+                "proxyResHeaders": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "environment",
+            "item": {
+                "uuid": "",
+                "lastMigration": 12,
+                "name": "Demo API",
+                "endpointPrefix": "",
+                "latency": 0,
+                "port": 3001,
+                "routes": [
+                    {
+                        "uuid": "",
+                        "documentation": "Generate random body (JSON, text, CSV, etc) with templating",
+                        "method": "get",
+                        "endpoint": "users",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "{\n  \"Templating example\": \"For more information about templating, click the blue 'i' above this editor\",\n  \"users\": [\n    {{# repeat (queryParam 'total' '10') }}\n      {\n        \"userId\": \"{{ faker 'random.number' min=10000 max=100000 }}\",\n        \"firstname\": \"{{ faker 'name.firstName' }}\",\n        \"lastname\": \"{{ faker 'name.lastName' }}\",\n        \"friends\": [\n          {{# repeat (faker 'random.number' 5) }}\n            {\n              \"id\": \"{{ faker 'random.uuid' }}\"\n            }\n          {{/ repeat }}\n        ]\n      },\n    {{/ repeat }}\n  ],\n  \"total\": \"{{queryParam 'total' '10'}}\"\n}",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "Creates 10 random users, or the amount specified in the 'total' query param",
+                                "headers": [
+                                    {
+                                        "key": "",
+                                        "value": ""
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "Use multiple responses with rules",
+                        "method": "post",
+                        "endpoint": "content/:param1",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "{\n  \"Rules example\": \"Default response. Served if route param 'param1' is not present.\"\n}",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "Default response",
+                                "headers": [
+                                    {
+                                        "key": "",
+                                        "value": ""
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "{\n  \"Rules example\": \"Content XYZ. Served if route param 'param1' equals 'xyz'. (See in 'Rules' tab)\"\n}",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "Content XYZ",
+                                "headers": [
+                                    {
+                                        "key": "",
+                                        "value": ""
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "param1",
+                                        "value": "xyz",
+                                        "isRegex": false
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            },
+                            {
+                                "uuid": "",
+                                "body": "{\n  \"Rules example\": \"Content not found. Served if route param 'param1' is not equal to 'xyz'. (See in 'Rules' tab)\"\n}\n",
+                                "latency": 0,
+                                "statusCode": 404,
+                                "label": "Content not found",
+                                "headers": [
+                                    {
+                                        "key": "",
+                                        "value": ""
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [
+                                    {
+                                        "target": "params",
+                                        "modifier": "param1",
+                                        "value": "^(?!.*xyz).*$",
+                                        "isRegex": true
+                                    }
+                                ],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "Serve a file dynamically depending on the path param 'pageName'.",
+                        "method": "get",
+                        "endpoint": "file/:pageName",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "Templating is also supported in file path",
+                                "headers": [
+                                    {
+                                        "key": "Content-Type",
+                                        "value": "text/html"
+                                    }
+                                ],
+                                "filePath": "./page{{urlParam 'pageName'}}.html",
+                                "sendFileAsBody": false,
+                                "rules": [],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "Path supports various patterns",
+                        "method": "put",
+                        "endpoint": "path/with/pattern(s)?/*",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "The current path will match the following routes: \nhttp://localhost:3000/path/with/pattern/\nhttp://localhost:3000/path/with/patterns/\nhttp://localhost:3000/path/with/patterns/anything-else\n\nLearn more about Mockoon's routing: https://mockoon.com/docs/latest/routing",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "",
+                                "headers": [
+                                    {
+                                        "key": "Content-Type",
+                                        "value": "text/plain"
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    {
+                        "uuid": "",
+                        "documentation": "Can Mockoon forward or record entering requests?",
+                        "method": "get",
+                        "endpoint": "forward-and-record",
+                        "responses": [
+                            {
+                                "uuid": "",
+                                "body": "Mockoon can also act as a proxy and forward all entering requests that are not caught by declared routes. \nYou can activate this option in the environment settings ('cog' icon in the upper right corner). \nTo learn more: https://mockoon.com/docs/latest/proxy-mode\n\nAs always, all entering requests, and responses from the proxied server will be recorded ('clock' icon in the upper right corner).\nTo learn more: https://mockoon.com/docs/latest/requests-logging",
+                                "latency": 0,
+                                "statusCode": 200,
+                                "label": "",
+                                "headers": [
+                                    {
+                                        "key": "Content-Type",
+                                        "value": "text/plain"
+                                    }
+                                ],
+                                "filePath": "",
+                                "sendFileAsBody": false,
+                                "rules": [],
+                                "rulesOperator": "OR",
+                                "disableTemplating": false
+                            }
+                        ],
+                        "enabled": true
+                    }
+                ],
+                "proxyMode": false,
+                "proxyHost": "",
+                "https": false,
+                "cors": true,
+                "headers": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "proxyReqHeaders": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ],
+                "proxyResHeaders": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

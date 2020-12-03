@@ -1,0 +1,66 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "沿革與里程碑 - PharmaEngine",
+    "pageTitle": "沿革與里程碑",
+    "milestones": [
+        {
+            "year": "2019",
+            "monthes": [
+                {
+                    "month": "Jun.",
+                    "desc": "安能得®及PEP503（Hensify®, NBTXR3）臨床試驗於美國臨床腫瘤學會（ASCO）年會告捷，分別由合作夥伴Ipsen與Nanobiotix發表安能得®於二線小細胞肺癌之第二/三期臨床試驗與PEP503於頭頸癌之第一/二期臨床試驗初步正向結果"
+                },
+                {
+                    "month": "Apr.",
+                    "desc": "PEP503（NBTXR3）獲得歐洲產品合格認證，核准用於局部晚期軟組織肉瘤病患之治療，將以商品名稱Hensify®於歐盟27國上市銷售"
+                }
+            ]
+        },
+        {
+            "year": "2018",
+            "monthes": [
+                {
+                    "month": "Oct.",
+                    "desc": "PEP503（NBTXR3）於歐洲腫瘤醫學會（ESMO）及美國放射腫瘤學會年會（ASTRO）口頭發表軟組織肉瘤之全球第二/三期臨床試驗正向數據詳細結果"
+                },
+                {
+                    "month": "Jul.",
+                    "desc": "安能得®獲健康保險署核准納入健保給付，自2018年8月1日起生效"
+                },
+                {
+                    "month": "Jul.",
+                    "desc": "ONIVYDE®已於歐洲第三個主要國家上市銷售"
+                },
+                {
+                    "month": "Jun.",
+                    "desc": "PEP503（NBTXR3）於軟組織肉瘤之全球樞紐性臨床試驗結果達標"
+                }
+            ]
+        },
+        {
+            "year": "2017",
+            "monthes": [
+                {
+                    "month": "Dec.",
+                    "desc": "ONIVYDE®合併療法獲得新加坡新藥上市許可"
+                },
+                {
+                    "month": "Oct.",
+                    "desc": "PEP503 (NBTXR3)達成軟組織肉瘤跨國樞紐性臨床試驗之病患收案目標"
+                },
+                {
+                    "month": "Sep.",
+                    "desc": "ONIVYDE®合併療法獲得韓國食品藥物安全部新藥上市許可,智擎公司獲得美金2仟5佰萬元之階段里程授權金"
+                },
+                {
+                    "month": "Jun.",
+                    "desc": "智擎公司的授權合作伙伴，法國Nanobiotix公司，於美國臨床腫瘤醫學年會(2017 ASCO)發表NBTXR3(PEP503)頭頸癌第I/II期臨床試驗結果"
+                },
+                {
+                    "month": "Mar.",
+                    "desc": "PEP503(NBTXR3)軟組織肉瘤之跨國樞紐性臨床試驗獲得獨立數據監測委員會(IDMC)建議繼續進行"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "活動訊息 - PharmaEngine",
+    "pageTitle": "活動訊息",
+    "event": {
+        "heading": "Lorem ipsum dolor sit amet consectetur.",
+        "time": "2020/11/16",
+        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium.",
+        "context": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, corrupti. Voluptatem porro deserunt est quisquam iure dolorem illo hic tempore assumenda amet ullam itaque, incidunt quam distinctio provident eum accusantium.",
+        "goBack": {
+            "href": "/events",
+            "text": "回活動訊息列表"
+        }
+    },
+    "contact": {
+        "subject": "聯絡我們",
+        "name": "張麒星",
+        "title": "財務暨行政副總經理"
+    }
+}

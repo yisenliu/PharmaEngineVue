@@ -1,0 +1,94 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "公司簡介 - PharmaEngine",
+    "hero": {
+        "title": "公司簡介",
+        "image": "/images/iStock-966481928-1242.jpg 1242w,/images/iStock-966481928-1536.jpg 1536w,/images/iStock-966481928-1920.jpg 1920w"
+    },
+    "businessModel": {
+        "subject": {
+            "navText": "經營模式",
+            "title": "經營模式"
+        },
+        "context": {
+            "paragraphy": "智擎公司係採用NRDO即”不做早期藥物研發, 專注於藥物開發階段”的方式，並結合“Networked Pharma”的模式進行新藥開發。經評估及篩選在臨床前階段至早期臨床試驗階段具有發展潛力新藥, 再藉由授權引進方式進行臨床開發以提升藥物價值，在臨床開發後期再授權給國際級藥廠做後續上市準備。智擎公司為一家「整合型之新藥開發公司」，核心競爭力為新藥評估能力、授權談判及新藥開發的策略擬定與計劃執行，並透過國際合作促使研發資源最大化，成功樹立台灣新藥開發的標竿。",
+            "more": "瞭解更多我們的經營模式<a href='/businessModel'>這裡</a>."
+        }
+    },
+    "comIntro": {
+        "subject": {
+            "navText": "公司簡介",
+            "title": "公司簡介"
+        },
+        "context": [
+            "智擎生技製藥公司創立於2003年2月，主要發起投資人包括台灣東洋藥品、行政院國發基金與國內生技創投等，並於2015年於法國獨資設立歐洲子公司。智擎成立的概念是以國際策略聯盟之方式，利用”No Research, Development Only (NRDO)”及”Networked Pharma”的模式，降低新藥開發的風險。",
+            "智擎公司專注於癌症疾病的治療，並以成為亞洲最專業與創新的新藥開發公司為公司的願景。目前共有三個新藥專案。其中，安能得<sup>&reg;</sup>(ONIVYDE<sup>&reg;</sup>) (nal-IRI, MM-398, PEP02)為利用奈米科技開發喜樹鹼類抗癌藥物之微脂體製劑，其使用於胰腺癌病人在接受過標準藥物gemcitabine失敗後的治療，目前已經在美國、歐洲及台灣上市銷售，並獲得韓國及新加坡之新藥上市許可。而另外1項新藥專案PEP503 (Hensify<sup>&reg;</sup>；NBTXR3）為利用結晶狀之奈米鉿氧化物開發之放射線治療提升劑(radioenhancer)，除了已取得歐洲合格產品認證(CE Mark)核准用於軟組織肉瘤病患之治療外，並同時在台灣地區進行直腸癌及頭頸癌第一/二期臨床試驗；而PEP06，係為針對癌症治療法開發之新成分新藥(NCE)，目前已在臨床前階段( pre-clinical stage)。",
+            "新藥安能得<sup>&reg;</sup>(ONIVYDE<sup>&reg;</sup>)方面，由於過去的授權合作夥伴美國Merrimack於2017年4月，已將安能得<sup>&reg;</sup>(ONIVYDE<sup>&reg;</sup>) 美國地區的所有權利授權於法國Ipsen製藥公司，因此智擎的合作夥伴也由Merrimack製藥公司轉為Ipsen製藥公司。智擎公司目前除了進行安能得<sup>&reg;</sup>(ONIVYDE<sup>&reg;</sup>)在台灣上市銷售與建置藥物安全通報系統以保障病患的用藥安全外，也積極展開與合作夥伴繼續完成各國的藥證申請，並持續進行其他適應症的臨床開發。",
+            "另一方面也加速PEP503及PEP06的研究發展。此外，也將引進多項新藥專案，以智擎執行專案管理的豐富經驗，展開臨床研究與後續商業化開發。"
+        ]
+    },
+    "comOrgnization": {
+        "subject": {
+            "navText": "公司組織",
+            "title": "公司組織"
+        },
+        "context": [
+            {
+                "href": "javascript:;",
+                "text": "董事會"
+            },
+            { "text": "稽核室" },
+            { "text": "薪酬委員會<br />審計委員會" },
+            { "text": "董事長" },
+            { "text": "總經理暨執行長" },
+            { "text": "總經理室<br />品保/人資/資訊" },
+            { "text": "轉譯科學處" },
+            { "text": "臨床暨法規處" },
+            { "text": "企業發展處" },
+            { "text": "行銷業務處" },
+            { "text": "財政暨行政管理處" }
+        ]
+    },
+    "partners": {
+        "subject": {
+            "navText": "合作夥伴",
+            "title": "合作夥伴"
+        },
+        "items": [
+            {
+                "href": "http://www.ipsen.com",
+                "name": "IPSEN S.A.",
+                "desc": "Ipsen設址於法國巴黎（Paris, France），是一家法國公開上市的生技製藥公司(Euronext: IPN)，專精於腫瘤學，內分泌學和治療神經肌肉疾病的藥物，如需更多資訊內容，敬請參考該公司網站 www.ipsen.com."
+            },
+            {
+                "href": "http://www.ipsen.com",
+                "name": "NANOBIOTIX S.A.",
+                "desc": "Nanobiotix公司設址於法國巴黎（Paris, France），是一家研發新穎奈米藥物(nanomedicine)的公司，其結合奈米技術和生物技術的優勢，專精於開發新穎癌症療法。如需更多資訊內容，敬請參考該公司網站 www.nanobiotix.com."
+            },
+            {
+                "href": "http://www.ipsen.com",
+                "name": "廣州必貝特醫藥技術有限公司",
+                "desc": "Ipsen設址於法國巴黎（Paris, France），是一家法國公開上市的生技製藥公司(Euronext: IPN)，專精於腫瘤學，內分泌學和治療神經肌肉疾病的藥物，如需更多資訊內容，敬請參考該公司網站 www.ipsen.com."
+            },
+            {
+                "href": "http://www.ipsen.com",
+                "name": "IPSEN S.A.",
+                "desc": "Ipsen設址於法國巴黎（Paris, France），是一家法國公開上市的生技製藥公司(Euronext: IPN)，專精於腫瘤學，內分泌學和治療神經肌肉疾病的藥物，如需更多資訊內容，敬請參考該公司網站 www.ipsen.com."
+            }
+        ]
+    },
+    "joinUs": {
+        "subject": {
+            "navText": "聯繫我們"
+        },
+        "context": {
+            "greeting1": "竭誠歡迎您成為<span>我</span>們的合作夥伴",
+            "greeting2": "有興趣共同參與我們的研發嗎？",
+            "contact": {
+                "href": "/contact",
+                "text": "聯絡我們"
+            },
+            "image": "/images/pixta_21086283_M-1242.jpg 1242w,/images/pixta_21086283_M-1536.jpg 1536w,/images/pixta_21086283_M-1920.jpg 1920w"
+        }
+    }
+}

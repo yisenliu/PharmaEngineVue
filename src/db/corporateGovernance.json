@@ -1,0 +1,124 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "公司治理 - PharmaEngine",
+    "pageTitle": "公司治理",
+    "regulations": {
+        "subject": {
+            "navText": "公司章程"
+        },
+        "contextTitle": "公司章程與重要規章",
+        "attachments": [
+            {
+                "href": "javascript:;",
+                "text": "公司章程"
+            },
+            {
+                "href": "javascript:;",
+                "text": "防範內線交易管理辦法"
+            },
+            {
+                "href": "javascript:;",
+                "text": "企業社會責任實務守則"
+            },
+            {
+                "href": "javascript:;",
+                "text": "風險管理辦法"
+            },
+            {
+                "href": "javascript:;",
+                "text": "公司治理實務守則"
+            },
+            {
+                "href": "javascript:;",
+                "text": "新藥研發風險管理"
+            },
+            {
+                "href": "javascript:;",
+                "text": "背書保證作業程序"
+            },
+            {
+                "href": "javascript:;",
+                "text": "資金貸與他人作業程序"
+            },
+            {
+                "href": "javascript:;",
+                "text": "取得或處分資產處理程序"
+            },
+            {
+                "href": "javascript:;",
+                "text": "道德行為準則"
+            },
+            {
+                "href": "javascript:;",
+                "text": "誠信經營守則"
+            },
+            {
+                "href": "javascript:;",
+                "text": "持股比例前十大股東"
+            },
+            {
+                "href": "javascript:;",
+                "text": "董事會多元化方針落實"
+            },
+            {
+                "href": "javascript:;",
+                "text": "公司治理專兼職單位人員"
+            }
+        ]
+    },
+    "committeeOrganization": {
+        "subject": {
+            "navText": "委員會組織"
+        },
+        "salaryCommitte": {
+            "title": "薪酬委員會組織",
+            "attachments": [
+                {
+                    "href": "javascript:;",
+                    "text": "公司章程"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "防範內線交易管理辦法"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任實務守則"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "風險管理辦法"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "公司治理實務守則"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "新藥研發風險管理"
+                }
+            ]
+        },
+        "auditCommittee": {
+            "title": "審計委員會組織",
+            "attachments": [
+                {
+                    "href": "javascript:;",
+                    "text": "公司章程"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "防範內線交易管理辦法"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任實務守則"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "風險管理辦法"
+                }
+            ]
+        }
+    }
+}

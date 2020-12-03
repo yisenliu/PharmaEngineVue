@@ -1,0 +1,105 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "新聞發佈 - PharmaEngine",
+    "hero": {
+        "title": "新聞發佈",
+        "image": "/images/business-man-1031755-1242.jpg 1242w,/images/business-man-1031755-1536.jpg 1536w,/images/business-man-1031755-1920.jpg 1920w"
+    },
+    "news": {
+        "subject": {
+            "title": "新聞摘要"
+        },
+        "tabs": [
+            {
+                "id": "2020",
+                "label": "2020",
+                "content": [
+                    {
+                        "href": "/newsView",
+                        "date": "2020/07/02",
+                        "brief": "智擎合作夥伴Ipsen於世界腸胃道癌症大會發表安能得®合併療法 作為第一線轉移性胰臟癌治療之第一/二期臨床試驗數據",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2020/06/01",
+                        "brief": "智擎合作夥伴NANOBIOTIX於ASCO 2020年會上公布PEP503（NBTXR3, HENSIFY）頭頸部癌症第一期臨床試驗擴展階段的正向數據",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2020/02/11",
+                        "brief": "智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）獲得美國FDA新藥快速審查資格",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    }
+                ]
+            },
+            {
+                "id": "2019",
+                "label": "2019",
+                "content": [
+                    {
+                        "href": "/newsView",
+                        "date": "2019/09/10",
+                        "brief": "智擎合作夥伴IPSEN與SERVIER於世界肺癌大會發表安能得於二線小細胞肺癌之第二/三期臨床試驗第一階段初步正向數據，並宣布進入第二階段病患收案",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2019/06/04",
+                        "brief": "智擎產品安能得及HENSIFY臨床試驗於ASCO年會告捷",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2019/04/07",
+                        "brief": "智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）的歐盟上市許可",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2019/04/07",
+                        "brief": "智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）的歐盟上市許可",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    }
+                ]
+            },
+            {
+                "id": "2018",
+                "label": "2018",
+                "content": [
+                    {
+                        "href": "/newsView",
+                        "date": "2018/10/19",
+                        "brief": "智擎合作夥伴NANOBIOTIX獲選於歐洲腫瘤醫學會（ESMO）及美國放射腫瘤學會年會（ASTRO）口頭發表PEP503（NBTXR3）於軟組織肉瘤之全球第二/三期臨床試驗正向數據詳細結果",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2018/07/11",
+                        "brief": "智擎公司新藥安能得（ONIVYDE）獲台灣健保給付",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2018/06/18",
+                        "brief": "智擎公司胰腺癌新藥安能得已於歐洲第三個主要國家上市銷售",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2018/05/02",
+                        "brief": "智擎公司新藥安能得獲得新加坡藥證核准通過治療晚期胰臟癌",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    },
+                    {
+                        "href": "/newsView",
+                        "date": "2018/05/02",
+                        "brief": "智擎公司新藥安能得獲得新加坡藥證核准通過治療晚期胰臟癌",
+                        "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "image": "/images/iStock-513905573-320.jpg 320w,/images/iStock-513905573-680.jpg 680w",
+        "caption": "投資人總覽",
+        "href": "/investors",
+        "name": "investors"
+    },
+    {
+        "image": "/images/iStock-916803922-320.jpg 320w,/images/iStock-916803922-680.jpg 680w",
+        "caption": "財務資訊",
+        "href": "/financialInfos",
+        "name": "financialInfos"
+    },
+    {
+        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w",
+        "caption": "股東會相關訊息",
+        "href": "/shareholdersMeeting",
+        "name": "shareholdersMeeting"
+    },
+    {
+        "image": "/images/iStock-649495828-320.jpg 320w,/images/iStock-649495828-680.jpg 680w",
+        "caption": "公司治理",
+        "href": "/corporateGovernance",
+        "name": "corporateGovernance"
+    },
+    {
+        "image": "/images/pixta_57712058_M-320.jpg 320w,/images/pixta_57712058_M-680.jpg 680w",
+        "caption": "利害關係人",
+        "href": "/stakeholder",
+        "name": "stakeholder"
+    },
+    {
+        "image": "/images/pixta_51337269_M-320.jpg 320w,/images/pixta_51337269_M-680.jpg 680w",
+        "caption": "檢舉制度",
+        "href": "/whistleblowerSystem",
+        "name": "whistleblowerSystem"
+    },
+    {
+        "image": "/images/iStock-1046832538-320.jpg 320w,/images/iStock-1046832538-680.jpg 680w",
+        "caption": "活動訊息",
+        "href": "/events",
+        "name": "events"
+    }
+]

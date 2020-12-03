@@ -1,0 +1,114 @@
+[
+    {
+        "navLink": {
+            "text": "關於智擎",
+            "href": "javascript:;"
+        },
+        "subListClass": "nav__subList--about",
+        "navSubItems": [
+            {
+                "text": "公司簡介",
+                "href": "/about",
+                "isActive": true
+            },
+            {
+                "text": "經營模式",
+                "href": "/businessModel",
+                "isActive": false
+            },
+            {
+                "text": "董事會組織",
+                "href": "/boardOrganization",
+                "isActive": false
+            },
+            {
+                "text": "獨立董事溝通政策",
+                "href": "/IDCP",
+                "isActive": false
+            },
+            {
+                "text": "主要經營團隊",
+                "href": "/managementTeam",
+                "isActive": false
+            },
+            {
+                "text": "沿革與里程碑",
+                "href": "/historyMilestones",
+                "isActive": false
+            },
+            {
+                "text": "企業社會責任專區",
+                "href": "/CSR",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "navLink": {
+            "text": "研究與發展",
+            "href": "/rd"
+        }
+    },
+    {
+        "navLink": {
+            "text": "投資人訊息",
+            "href": "javascript:;"
+        },
+        "subListClass": "nav__subList--investors",
+        "navSubItems": [
+            {
+                "text": "投資人訊息總覽",
+                "href": "/investors",
+                "isActive": false
+            },
+            {
+                "text": "財務資訊",
+                "href": "/financialInfos",
+                "isActive": false
+            },
+            {
+                "text": "股東會相關訊息",
+                "href": "/shareholdersMeeting",
+                "isActive": false
+            },
+            {
+                "text": "公司治理",
+                "href": "/corporateGovernance",
+                "isActive": false
+            },
+            {
+                "text": "利害關係人",
+                "href": "/stakeholder",
+                "isActive": false
+            },
+            {
+                "text": "檢舉制度",
+                "href": "/whistleblowerSystem",
+                "isActive": false
+            },
+            {
+                "text": "活動訊息",
+                "href": "/events",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "navLink": {
+            "text": "新聞發佈",
+            "href": "/news"
+        }
+    },
+    {
+        "navLink": {
+            "text": "人才招募",
+            "href": "/career"
+        }
+    },
+    {
+        "navLink": {
+            "text": "聯繫我們",
+            "href": "/contact"
+        }
+    }
+]

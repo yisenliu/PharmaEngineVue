@@ -1,0 +1,135 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "股東會相關訊息 - PharmaEngine",
+    "regularShareholdersMeeting": {
+        "subject": {
+            "title": "股東常會",
+            "navText": "股東常會"
+        },
+        "sessions": [
+            {
+                "heading": "109年度股東常會",
+                "date": "109年5月15日",
+                "time": "上午 9 點 30分",
+                "address": "台北市松江路350號11樓第二會議室",
+                "attachments": [
+                    {
+                        "href": "javascript:;",
+                        "text": "議事手冊"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "開會通知書"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "議事錄"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "2020年年報"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "檔案下載保留欄位"
+                    }
+                ]
+            },
+            {
+                "heading": "109年度股東常會",
+                "date": "109年5月15日",
+                "time": "上午 9 點 30分",
+                "address": "台北市松江路350號11樓第二會議室",
+                "attachments": []
+            },
+            {
+                "heading": "109年度股東常會",
+                "date": "109年5月15日",
+                "time": "上午 9 點 30分",
+                "address": "台北市松江路350號11樓第二會議室",
+                "attachments": [
+                    {
+                        "href": "javascript:;",
+                        "text": "議事手冊"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "開會通知書"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "議事錄"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "2020年年報"
+                    }
+                ]
+            },
+            {
+                "heading": "109年度股東常會",
+                "date": "109年5月15日",
+                "time": "上午 9 點 30分",
+                "address": "台北市松江路350號11樓第二會議室",
+                "attachments": [
+                    {
+                        "href": "javascript:;",
+                        "text": "開會通知書"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "議事錄"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "2020年年報"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "檔案下載保留欄位"
+                    }
+                ]
+            },
+            {
+                "heading": "109年度股東常會",
+                "date": "109年5月15日",
+                "time": "上午 9 點 30分",
+                "address": "台北市松江路350號11樓第二會議室",
+                "attachments": [
+                    {
+                        "href": "javascript:;",
+                        "text": "議事手冊"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "開會通知書"
+                    },
+                    {
+                        "href": "javascript:;",
+                        "text": "議事錄"
+                    }
+                ]
+            }
+        ]
+    },
+    "stockAffairsContactWindow": {
+        "subject": {
+            "title": "股務聯絡窗口",
+            "navText": "股務聯絡窗口"
+        },
+        "contactWindow": [
+            {
+                "name": "元大證券股份有限公司股務代理部",
+                "title": "股票過戶機構與公司股務聯絡窗口",
+                "phone": "(02) 2586-3117",
+                "address": "台北市承德路三段210號B1"
+            },
+            {
+                "name": "張麒星",
+                "title": "投資人關係聯絡窗口",
+                "phone": "(02) 2515-8228",
+                "address": ""
+            }
+        ]
+    }
+}

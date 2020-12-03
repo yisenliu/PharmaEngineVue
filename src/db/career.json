@@ -1,0 +1,181 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "人才招募 - PharmaEngine",
+    "pageTitle": "人才招募",
+    "employeeWelfareInsurance": {
+        "subject": {
+            "navText": "員工福利與保險"
+        },
+        "heading": "員工福利與保險",
+        "desc": "本公司為營造良好的工作環境氛圍、吸引人才，並鼓勵員工長期為公司服務，訂定職工福利及保險作業辦法，執行各項福利措施。包括：",
+        "welfares": [
+            "生日禮金",
+            "年節禮金",
+            "意外醫療及住院醫療險",
+            "結婚禮金",
+            "疾病住院慰問金",
+            "國內外旅遊",
+            "生育禮金",
+            "災害救助金及奠儀",
+            "其他<p>如不定期聚餐，以及舉辦全體員工活動，如家庭日及尾牙或春酒等</p>"
+        ]
+    },
+    "educationTraining": {
+        "subject": {
+            "navText": "教育訓練"
+        },
+        "heading": "教育訓練",
+        "desc": "人才是本公司的重要資產，亦是決定公司競爭優勢的關鍵因素。在智擎，全方位的學習是深耕的文化組織。本公司訂有「教育訓練作業程序」，在完善的教育訓練體系下，針對公司組織策略與工作需求，規劃整體系列的教育訓練課程，以提升員工之工作能力。依本公司教育訓練作業程序，各部門每年編列預算並於年度中執行教育訓練，以強化同仁專業素養並提升工作效率及品質。訓練內容包括外派訓練、內部訓練及在職進修等相關訓練課程。",
+        "trainingTypes": [
+            "國內訓練",
+            "在職進修",
+            "國外訓練",
+            "內部訓練<p>職前訓練<br>其他自行舉辦或外聘講師所舉辦之講座或研討會</p>"
+        ]
+    },
+    "retirementSystem": {
+        "subject": {
+            "navText": "退休制度"
+        },
+        "heading": "退休制度",
+        "desc": "目前本公司所有員工之退休制度均依民國九十四年七月一日實施之勞工退休金條例(簡稱新制)辦理，員工退休金一律採確定提撥制，其退休金之給付依月提繳工資分級表，由本公司按月以不低於每月工資百分之六提繳退休金，儲存於勞工退休金個人專戶。"
+    },
+    "safeguard": {
+        "subject": {
+            "navText": "保護措施",
+            "title": "保護措施"
+        },
+        "items": [
+            {
+                "label": "工作環境說明",
+                "content": [
+                    "辦公場所安全保護措施",
+                    "提供員工安全健康的工作環境」是企業最基本的義務之一，在許多工安事件發生時往往也威脅到員工人身或辦公環境安全，因此，公司不定期舉辦員工安全衛生教育訓練，避免因無知而造成意外之發生。除此之外，本公司亦強化相關職場環境安全管理、消防安全管理、員工健康管理等，以維護員工人身安全。"
+                ]
+            },
+            {
+                "label": "職場環境安全管理",
+                "content": [
+                    "制定「員工守則」，規定安全管理事項，供員工遵循。",
+                    "實施門禁管理，進入公司之員工及訪客皆需刷卡或驗證。"
+                ]
+            },
+            {
+                "label": "消防安全",
+                "content": [
+                    "本公司所處之大樓依法規規定設置完整之消防系統，包含警報系統、消防系統、逃生系統等。",
+                    "本公司所處之大樓消防設備係委託合格專業之檢測顧問公司進行系統單元功能檢測。",
+                    "本公司所處之大樓不定期進行消防設備演練，如滅火器及消防水帶之使用並請專業人員教導CPR的技巧。",
+                    "其他消防安全相關設施：公共走道皆依規定設置乾粉滅火器，並依規定期檢視保養所有消防系統。"
+                ]
+            },
+            {
+                "label": "員工健康管理",
+                "content": ["每兩年補助所有員工進行一般性健康檢查。"]
+            }
+        ]
+    },
+    "resume": {
+        "subject": {
+            "navText": "履歷投遞",
+            "title": "歡迎將履歷投遞給我們！"
+        },
+        "IWantToApply": {
+            "href": "javascript:;",
+            "text": "我要應徵(外連至人力銀行網站)"
+        },
+        "form": {
+            "submit": {
+                "text": "確認送出"
+            },
+            "status": {
+                "pending": "資料上傳中！<br>請稍候...",
+                "success": "留言已送出！<br>我們將儘快與您聯繫。",
+                "timeout": "很抱歉，您的請求已逾時！<br>請稍候再試。"
+            },
+            "opinion": {
+                "id": "opinion",
+                "name": "opinion",
+                "label": "意見類別",
+                "options": [
+                    {
+                        "text": "Option One",
+                        "value": "1"
+                    },
+                    {
+                        "text": "Option Two",
+                        "value": "2"
+                    }
+                ],
+                "selected": "1"
+            },
+            "username": {
+                "id": "username",
+                "name": "username",
+                "label": "姓名",
+                "placeholder": "請輸入姓名(不可輸入符號)",
+                "required": true,
+                "value": "Yisen",
+                "errorType": {
+                    "format": "姓名格式錯誤",
+                    "empty": "請輸入姓名"
+                },
+                "invalidMsg": null,
+                "valid": null
+            },
+            "education": {
+                "id": "education",
+                "name": "education",
+                "label": "您的學歷",
+                "placeholder": "請輸入您的最高學歷",
+                "value": "",
+                "invalidMsg": null,
+                "valid": null
+            },
+            "email": {
+                "id": "email",
+                "name": "email",
+                "label": "電子郵件",
+                "placeholder": "請輸入電子郵件",
+                "required": true,
+                "value": "test@gmai.com",
+                "errorType": {
+                    "format": "電子郵件格式錯誤",
+                    "empty": "請輸入電子郵件"
+                },
+                "invalidMsg": null,
+                "valid": null
+            },
+            "uploadResume": {
+                "id": "uploadResume",
+                "name": "uploadResume",
+                "label": "上傳履歷 (請上傳PDF檔)",
+                "placeholder": "",
+                "errorType": {
+                    "format": "檔案格式錯誤"
+                },
+                "invalidMsg": null
+            },
+            "position": {
+                "id": "position",
+                "name": "position",
+                "label": "您要申請的職務",
+                "placeholder": "請說明您要申請職務",
+                "required": true,
+                "value": "I want to be your boss!!",
+                "errorType": {
+                    "empty": "請輸入您要申請職務"
+                },
+                "invalidMsg": null,
+                "valid": null
+            },
+            "captcha": {
+                "label": "Google驗證",
+                "robot": "你是機器人！",
+                "human": "你是人類！",
+                "siteKey": "6LeaXbUZAAAAANuffXMb32K2RFsyHoBHOtSXN7zZ",
+                "secretKey": "6LeaXbUZAAAAAGLxwUYz4I5q9VrUS0uXD70iIKmB"
+            }
+        }
+    }
+}

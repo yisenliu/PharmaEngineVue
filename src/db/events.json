@@ -1,0 +1,208 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "活動訊息 - PharmaEngine",
+    "hero": {
+        "title": "活動訊息",
+        "image": "/images/iStock-1046832538-1242.jpg 1242w,/images/iStock-1046832538-1536.jpg 1536w,/images/iStock-1046832538-1920.jpg 1920w"
+    },
+    "eventsList": {
+        "subject": {
+            "title": "活動列表"
+        },
+        "tabs": [
+            {
+                "id": "2020",
+                "label": "2020",
+                "content": [
+                    {
+                        "href": "/eventView",
+                        "date": "2020/07/02",
+                        "heading": "2020 智擎合作夥伴Ipsen於世界腸胃道癌症大會發表安能得®合併療法 作為第一線轉移性胰臟癌治療之第一/二期臨床試驗數據",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2020/06/01",
+                        "heading": "2020 智擎合作夥伴NANOBIOTIX於ASCO 2020年會上公布PEP503（NBTXR3, HENSIFY）頭頸部癌症第一期臨床試驗擴展階段的正向數據",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2020/02/11",
+                        "heading": "2020 智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）獲得美國FDA新藥快速審查資格",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    }
+                ]
+            },
+            {
+                "id": "2019",
+                "label": "2019",
+                "content": [
+                    {
+                        "href": "/eventView",
+                        "date": "2019/09/10",
+                        "heading": "2019 智擎合作夥伴IPSEN與SERVIER於世界肺癌大會發表安能得於二線小細胞肺癌之第二/三期臨床試驗第一階段初步正向數據，並宣布進入第二階段病患收案",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2019/06/04",
+                        "heading": "2019 智擎產品安能得及HENSIFY臨床試驗於ASCO年會告捷",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2019/04/07",
+                        "heading": "2019 智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）的歐盟上市許可",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2019/04/07",
+                        "heading": "2019 智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）的歐盟上市許可",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    }
+                ]
+            },
+            {
+                "id": "2018",
+                "label": "2018",
+                "content": [
+                    {
+                        "href": "/eventView",
+                        "date": "2018/10/19",
+                        "heading": "2018 智擎合作夥伴NANOBIOTIX獲選於歐洲腫瘤醫學會（ESMO）及美國放射腫瘤學會年會（ASTRO）口頭發表PEP503（NBTXR3）於軟組織肉瘤之全球第二/三期臨床試驗正向數據詳細結果",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2018/07/11",
+                        "heading": "2018 智擎公司新藥安能得（ONIVYDE）獲台灣健保給付",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2018/06/18",
+                        "heading": "2018 智擎公司胰腺癌新藥安能得已於歐洲第三個主要國家上市銷售",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2018/05/02",
+                        "heading": "2018 智擎公司新藥安能得獲得新加坡藥證核准通過治療晚期胰臟癌",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    },
+                    {
+                        "href": "/eventView",
+                        "date": "2018/05/02",
+                        "heading": "2018 智擎公司新藥安能得獲得新加坡藥證核准通過治療晚期胰臟癌",
+                        "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                        "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, praesentium."
+                    }
+                ]
+            }
+        ]
+    },
+    "msgForm": {
+        "subject": {
+            "title": "讓我們為您保留時間"
+        },
+        "submit": {
+            "text": "確認送出"
+        },
+        "status": {
+            "pending": "資料上傳中！<br>請稍候...",
+            "success": "留言已送出！<br>我們將儘快與您聯繫。",
+            "timeout": "很抱歉，您的請求已逾時！<br>請稍候再試。"
+        },
+        "opinion": {
+            "id": "opinion",
+            "name": "opinion",
+            "label": "意見類別",
+            "options": [
+                {
+                    "text": "Option One",
+                    "value": "1"
+                },
+                {
+                    "text": "Option Two",
+                    "value": "2"
+                }
+            ],
+            "selected": "1"
+        },
+        "username": {
+            "id": "username",
+            "name": "username",
+            "label": "姓名",
+            "placeholder": "請輸入姓名(不可輸入符號)",
+            "required": true,
+            "value": "xxx",
+            "errorType": {
+                "format": "姓名格式錯誤",
+                "empty": "請輸入姓名"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "company": {
+            "id": "company",
+            "name": "company",
+            "label": "公司名稱",
+            "placeholder": "",
+            "value": ""
+        },
+        "email": {
+            "id": "email",
+            "name": "email",
+            "label": "電子郵件",
+            "placeholder": "請輸入電子郵件",
+            "required": true,
+            "value": "xxx@xx.xxx",
+            "errorType": {
+                "format": "電子郵件格式錯誤",
+                "empty": "請輸入電子郵件"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "meeting": {
+            "id": "meeting",
+            "name": "meeting",
+            "label": "會議或活動",
+            "placeholder": "",
+            "value": ""
+        },
+        "message": {
+            "id": "message",
+            "name": "message",
+            "label": "意見內容",
+            "placeholder": "請告訴我們您要參與的會議或活動，並留下您的聯繫方式",
+            "required": true,
+            "value": "xxxx",
+            "errorType": {
+                "empty": "請輸入意見內容"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "captcha": {
+            "label": "Google驗證",
+            "robot": "你是機器人！",
+            "human": "你是人類！",
+            "siteKey": "6LeaXbUZAAAAANuffXMb32K2RFsyHoBHOtSXN7zZ",
+            "secretKey": "6LeaXbUZAAAAAGLxwUYz4I5q9VrUS0uXD70iIKmB"
+        }
+    }
+}

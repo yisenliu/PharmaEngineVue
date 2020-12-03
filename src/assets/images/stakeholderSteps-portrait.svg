@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 207 806.3" enable-background="new 0 0 207 806.3" xml:space="preserve">
+  <g>
+    <polygon fill="#558ED5" points="0,39.8 0,119.5 69,159.3 138,119.5 138,39.8 69,0 	" />
+    <text transform="matrix(1 0 0 1 33 85.9907)" font-family="'MicrosoftJhengHeiRegular'" font-size="18px">議題收集</text>
+    <text transform="matrix(1 0 0 1 61.6001 55.9907)" fill="#FFFFFF" font-family="'PlayfairDisplay-Regular'" font-size="40px">1</text>
+  </g>
+  <g>
+    <polygon fill="#8EB4E3" points="69,169.2 69,248.9 138,288.7 207,248.9 207,169.2 138,129.4 	" />
+    <text transform="matrix(1 0 0 1 75 215.3907)" font-family="'MicrosoftJhengHeiRegular'" font-size="18px">利害關係人鑑別</text>
+    <text transform="matrix(1 0 0 1 128.4194 185.3907)" fill="#FFFFFF" font-family="'PlayfairDisplay-Regular'" font-size="40px">2</text>
+  </g>
+  <g>
+    <polygon fill="#93CDDD" points="0,298.6 0,378.3 69,418.1 138,378.3 138,298.6 69,258.8 	" />
+    <text transform="matrix(1 0 0 1 24 344.7907)" font-family="'MicrosoftJhengHeiRegular'" font-size="18px">考量面邊界</text>
+    <text transform="matrix(1 0 0 1 59.98 314.7907)" fill="#FFFFFF" font-family="'PlayfairDisplay-Regular'" font-size="40px">3</text>
+  </g>
+  <g>
+    <polygon fill="#558ED5" points="69,428 69,507.7 138,547.5 207,507.7 207,428 138,388.2 	" />
+    <text transform="matrix(1 0 0 1 93 474.1908)" font-family="'MicrosoftJhengHeiRegular'" font-size="18px">回應與責任</text>
+    <text transform="matrix(1 0 0 1 128.1196 444.1908)" fill="#FFFFFF" font-family="'PlayfairDisplay-Regular'" font-size="40px">4</text>
+  </g>
+  <g>
+    <polygon fill="#8EB4E3" points="0,557.4 0,637.1 69,676.9 138,637.1 138,557.4 69,517.6 	" />
+    <text transform="matrix(1 0 0 1 24 603.5907)" font-family="'MicrosoftJhengHeiRegular'" font-size="18px">回饋與檢討</text>
+    <text transform="matrix(1 0 0 1 60.6997 573.5907)" fill="#FFFFFF" font-family="'PlayfairDisplay-Regular'" font-size="40px">5</text>
+  </g>
+  <g>
+    <polygon fill="#93CDDD" points="69,686.8 69,766.5 138,806.3 207,766.5 207,686.8 138,647 	" />
+    <text transform="matrix(1 0 0 1 117.75 732.9907)" font-family="'MicrosoftJhengHeiRegular'" font-size="18px">改 善</text>
+    <text transform="matrix(1 0 0 1 127.6597 702.9907)" fill="#FFFFFF" font-family="'PlayfairDisplay-Regular'" font-size="40px">6</text>
+  </g>
+  <g>
+    <g>
+      <path fill="none" stroke="#A6A6A6" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M148.5,79.7
+			c34.6,11.2,39.1,35.3,37.5,51.8" />
+      <g>
+        <polygon fill="#A6A6A6" points="182,148.7 177.3,122.2 186,130.1 197.2,126.5 			" />
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path fill="none" stroke="#A6A6A6" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M148.5,334.4
+			c34.6,11.2,39.1,35.3,37.5,51.8" />
+      <g>
+        <polygon fill="#A6A6A6" points="182,403.4 177.3,376.9 186,384.9 197.2,381.2 			" />
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path fill="none" stroke="#A6A6A6" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M148.5,597.4
+			c34.6,11.2,39.1,35.3,37.5,51.8" />
+      <g>
+        <polygon fill="#A6A6A6" points="182,666.4 177.3,639.9 186,647.9 197.2,644.2 			" />
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path fill="none" stroke="#A6A6A6" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M60.3,204.7
+			c-34.6,11.2-39.1,35.3-37.5,51.8" />
+      <g>
+        <polygon fill="#A6A6A6" points="26.8,273.7 11.6,251.5 22.8,255.1 31.5,247.2 			" />
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path fill="none" stroke="#A6A6A6" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M60.3,459.4
+			c-34.6,11.2-39.1,35.3-37.5,51.8" />
+      <g>
+        <polygon fill="#A6A6A6" points="26.8,528.4 11.6,506.2 22.8,509.9 31.5,501.9 			" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,106 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2175 1400" enable-background="new 0 0 2175 1400" xml:space="preserve">
+  <g class="svg_circles">
+
+    <line fill="none" stroke="#EFEFEF" stroke-width="19" stroke-miterlimit="10" x1="512.5" y1="700" x2="1676.44" y2="700"></line>
+
+    <path fill="#FFFFFF" stroke="#E49A6D" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" d="M512.5,700
+  
+      c0,138.07-111.928,250-250,250c-138.071,0-250-111.93-250-250s111.929-250.001,250-250.001C400.571,449.999,512.5,561.93,512.5,700
+  
+      z" style="stroke-dasharray: 1571.02, 1571.02; stroke-dashoffset: 0;"></path>
+
+    <text transform="matrix(1 0 0 1 254.4995 694.9868)">
+      <tspan x="0" y="0" fill="#E49A6D" class="circleTitle">授權引進</tspan>
+      <tspan x="0" dy="1.2em">夥伴</tspan>
+    </text>
+
+    <path fill="#FFFFFF" stroke="#6EB1E2" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" d="M2162.5,700
+  
+      c0,138.072-111.93,250-250.001,250C1774.43,950,1662.5,838.072,1662.5,700c0-138.07,111.93-250,249.999-250
+  
+      C2050.57,450,2162.5,561.93,2162.5,700z" style="stroke-dasharray: 1571.02, 1571.02; stroke-dashoffset: 0;"></path>
+
+    <text transform="matrix(1 0 0 1 1904.501 694.9868)">
+      <tspan x="0" y="0" fill="#6EB1E2" class="circleTitle">對外授權</tspan>
+      <tspan x="0" dy="1.2em">夥伴</tspan>
+    </text>
+
+    <g>
+
+
+
+      <line fill="none" stroke="#B7B7B7" stroke-width="15" stroke-miterlimit="10" x1="1080" y1="809.804" x2="905.936" y2="996.027"></line>
+
+      <polygon fill="#B7B7B7" points="928.462,1012.066 888.521,974.733 889.83,1013.362 					"></polygon>
+
+    </g>
+
+    <path fill="#FFFFFF" stroke="#9083BA" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" d="M971.911,1159.067
+  
+      c0,94.078-76.266,170.342-170.344,170.342c-94.077,0-170.342-76.264-170.342-170.342c0-94.076,76.265-170.342,170.342-170.342
+  
+      C895.646,988.726,971.911,1064.991,971.911,1159.067z" style="stroke-dasharray: 1070.44, 1070.44; stroke-dashoffset: 0;"></path>
+
+    <text transform="matrix(1 0 0 1 801.5684 1151.0508)">
+      <tspan x="0" y="0" fill="#68529E">委託臨床</tspan>
+      <tspan x="0" dy="1.2em">試驗機構</tspan>
+    </text>
+
+    <g>
+
+
+
+      <line fill="none" stroke="#B7B7B7" stroke-width="15" stroke-miterlimit="10" x1="1080" y1="809.804" x2="1257.211" y2="994.252"></line>
+
+      <polygon fill="#B7B7B7" points="1274.437,972.62 1235.012,1010.498 1273.655,1011.267 					"></polygon>
+
+
+    </g>
+
+    <path fill="#FFFFFF" stroke="#9083BA" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" d="M1528.774,1159.067
+  
+      c0,94.078-76.266,170.342-170.344,170.342c-94.076,0-170.342-76.264-170.342-170.342c0-94.076,76.266-170.342,170.342-170.342
+  
+      C1452.509,988.726,1528.774,1064.991,1528.774,1159.067z" style="stroke-dasharray: 1070.44, 1070.44; stroke-dashoffset: 0;"></path>
+
+    <text transform="matrix(1 0 0 1 1358.4326 1151.0508)">
+      <tspan x="0" y="0" fill="#68529E">委託藥物</tspan>
+      <tspan x="0" dy="1.2em">製造機構</tspan>
+    </text>
+    <polygon fill="#FFFFFF" points="1522.157,809.804 581.152,809.804 637.844,700 581.152,590.196 1522.157,590.196 1578.849,700 	"></polygon>
+    <text transform="matrix(1 0 0 1 1086.6694 721.1563)" class="companyName">智擎</text>
+
+  </g>
+
+  <g class="phases">
+
+    <polygon fill="#97B721" points="1628.308,296.091 884.24,296.091 918.612,229.518 884.24,162.943 1628.308,162.943 
+  
+      1662.68,229.518 	"></polygon>
+
+    <polygon fill="#AACA4D" points="854.112,296.091 496.962,296.091 531.334,229.518 496.962,162.943 854.112,162.943 
+  
+      888.484,229.518 	"></polygon>
+
+    <polygon fill="#6EB1E2" points="2015.944,296.091 1658.795,296.091 1693.166,229.518 1658.795,162.943 2015.944,162.943 
+  
+      2050.316,229.518 	"></polygon>
+
+    <polygon fill="#E49A6D" points="466.834,296.091 109.684,296.091 144.056,229.518 109.684,162.943 466.834,162.943 
+  
+      501.206,229.518 	"></polygon>
+
+    <text transform="matrix(1 0 0 1 1272.5156 242.0103)" fill="#FFFFFF">臨床一期 二期 三期 上市核准
+    </text>
+
+
+
+    <text transform="matrix(1 0 0 1 1846.5557 242.0103)" fill="#FFFFFF">藥品行銷</text>
+
+    <text transform="matrix(1 0 0 1 704.1045 242.0103)" fill="#FFFFFF">臨床前階段</text>
+
+    <text transform="matrix(1 0 0 1 307.4453 242.0103)" fill="#FFFFFF">候選藥物</text>
+
+
+  </g>
+</svg>

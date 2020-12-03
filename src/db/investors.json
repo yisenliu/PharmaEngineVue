@@ -1,0 +1,190 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "投資人訊息總覽 - PharmaEngine",
+    "hero": {
+        "title": "台灣新藥開發史上引人矚目的成功範例",
+        "subtitle": "智擎公司旗下新藥安能得®為台灣首個獲得美國食品暨藥物管理局(US FDA)核准上市的抗腫瘤新藥。",
+        "image": "/images/iStock-513905573-1242.jpg 1242w,/images/iStock-513905573-1536.jpg 1536w,/images/iStock-513905573-1920.jpg 1920w"
+    },
+    "introduction": {
+        "subject": {
+            "navText": "介紹"
+        },
+        "context": {
+            "heading": "以成為世界級的新藥開發公司為願景",
+            "paragraphy": [
+                "智擎公司(TWO: 4162) 為一家已邁入產品上市階段並實現獲利的新藥開發公司，我們致力於創新癌症療法的開發，以及安能得®於台灣地區的上市銷售。 總部位於台灣，並設有法國子公司，主要採用No Research Development Only (NRDO)與Networked Pharma的商業模式。<a href='/businessModel'>瞭解更多</a>",
+                "旗下新藥安能得®已獲台灣、美國、歐洲、澳洲、加拿大以及新加坡等國核准治療轉移性胰腺癌；PEP503（NBTXR3）除了已顯示正面數據之軟組織肉瘤樞紐性臨床試驗，尚有針對其他癌症的臨床試驗正進行中；PEP06於臨床前試驗階段。<a href='/rd'>瞭解更多</a>",
+                "同時，公司也積極評估介於臨床前至臨床一、二期的新專案，並將授權引進方式進行臨床開發與後續商業化的開展。"
+            ]
+        }
+    },
+    "latestEvents": {
+        "subject": {
+            "navText": "最新活動訊息",
+            "title": "最新活動訊息"
+        },
+        "events": [
+            {
+                "href": "/eventView",
+                "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                "heading": "本公司受邀參加元大證券舉辦之產業座談會",
+                "date": "2019/11/20-2100/7/31",
+                "address": "台北市中山區南京東路三段225號6樓會議室(大同大樓)"
+            },
+            {
+                "href": "/eventView",
+                "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                "heading": "本公司受邀參加元大證券舉辦之投資人說明會",
+                "date": "2019/8/28-2100/7/31",
+                "address": "台北市南京東路三段225號元大證券4樓會議室"
+            },
+            {
+                "href": "/eventView",
+                "image": "/images/iStock-499421001-320.jpg 320w,/images/iStock-499421001-680.jpg 680w,/images/iStock-499421001-960.jpg 960w",
+                "heading": "本公司受邀參加第37屆Annual J.P. Morgan Healthcare Conference",
+                "date": "2019/1/8-2100/7/31",
+                "address": "美國舊金山Westin St. Francis Hotel"
+            }
+        ],
+        "viewAll": {
+            "href": "/events",
+            "text": "所有活動訊息"
+        }
+    },
+    "latestNews": {
+        "subject": {
+            "navText": "最新發佈新聞",
+            "title": "最新發佈新聞"
+        },
+        "newsList": [
+            {
+                "href": "/newsView",
+                "date": "2020-7-2",
+                "context": "智擎合作夥伴Ipsen於世界腸胃道癌症大會發表安能得®合併療法 作為第一線轉移性胰臟癌治療之第一/二期臨床試驗數據",
+                "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+            },
+            {
+                "href": "/newsView",
+                "date": "2020-6-1",
+                "context": "智擎合作夥伴NANOBIOTIX於ASCO 2020年會上公布PEP503（NBTXR3, HENSIFY）頭頸部癌症第一期臨床試驗擴展階段的正向數據",
+                "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+            },
+            {
+                "href": "/newsView",
+                "date": "2020-2-11",
+                "context": "智擎宣布合作夥伴NANOBIOTIX取得PEP503（NBTXR3, HENSIFY）獲得美國FDA新藥快速審查資格",
+                "image": "/images/4M1A5875-100.jpg 100w,/images/4M1A5875-200.jpg 200w,/images/4M1A5875-400.jpg 400w"
+            }
+        ],
+        "viewAll": {
+            "href": "/news",
+            "text": "所有新聞發佈"
+        }
+    },
+    "latestFinancialInformation": {
+        "subject": {
+            "navText": "最新財務資訊",
+            "title": "最新財務資訊"
+        },
+        "attachments": [
+            {
+                "href": "javascript:;",
+                "text": "2018年Q2"
+            },
+            {
+                "href": "javascript:;",
+                "text": "2018年Q1"
+            },
+            {
+                "href": "javascript:;",
+                "text": "2017年Q4"
+            }
+        ],
+        "viewAll": {
+            "href": "/financialInfos",
+            "text": "所有財務資訊"
+        }
+    },
+    "companyStockPrice": {
+        "subject": {
+            "navText": "公司股價",
+            "title": "公司股價"
+        },
+        "links": [
+            {
+                "href": "https://mis.twse.com.tw/stock/fibest.jsp?stock=4162&lang=en_us",
+                "text": "公司股價"
+            },
+            {
+                "href": "https://emops.twse.com.tw/server-java/t58query",
+                "text": "公開資訊觀測站"
+            }
+        ]
+    },
+    "dividendDistributionHistory": {
+        "subject": {
+            "navText": "歷年股利分配",
+            "title": "歷年股利分配"
+        },
+        "annualDividends": [
+            {
+                "year": "107 年度",
+                "paymentDate": {
+                    "name": "除權(息)交易日",
+                    "time": "2019/08/28"
+                },
+                "exDividendDate": {
+                    "name": "除權(息)基準日",
+                    "time": "2019/09/03"
+                },
+                "cash": {
+                    "name": "現金股利",
+                    "dividend": "1.000"
+                },
+                "stock": {
+                    "name": "股票股利",
+                    "dividend": "1.000"
+                }
+            },
+            {
+                "year": "106 年度",
+                "paymentDate": {
+                    "name": "除權(息)交易日",
+                    "time": "2019/08/28"
+                },
+                "exDividendDate": {
+                    "name": "除權(息)基準日",
+                    "time": "2019/09/03"
+                },
+                "cash": {
+                    "name": "現金股利",
+                    "dividend": "2.499"
+                },
+                "stock": {
+                    "name": "股票股利",
+                    "dividend": "1.999"
+                }
+            },
+            {
+                "year": "105 年度",
+                "paymentDate": {
+                    "name": "除權(息)交易日",
+                    "time": "2019/08/28"
+                },
+                "exDividendDate": {
+                    "name": "除權(息)基準日",
+                    "time": "2019/09/03"
+                },
+                "cash": {
+                    "name": "現金股利",
+                    "dividend": "2.499"
+                },
+                "stock": {
+                    "name": "股票股利",
+                    "dividend": "1.999"
+                }
+            }
+        ]
+    }
+}

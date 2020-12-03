@@ -1,0 +1,182 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "安能得 - PharmaEngine",
+    "hero": {
+        "theme": "dark",
+        "title": "安能得®",
+        "subtitle": "A Promising Future",
+        "image": "/images/DSC09570-color-mod-portrait-sm-bottom-1242.jpg 1242w,/images/DSC09570-color-mod-portrait-sm-bottom-1536.jpg 1536w,/images/DSC09570-color-mod-portrait-sm-bottom-1920.jpg 1920w"
+    },
+    "productBrief": {
+        "subject": {
+            "navText": "產品簡介&技術說明"
+        },
+        "briefs": [
+            {
+                "title": "產品簡介",
+                "context": [
+                    "安能得® ONIVYDE是具有高度穩定性的創新奈米微脂體irinotecan製劑（irinotecan liposome injection）。Irinotecan為喜樹鹼（camptothecin）衍生物製劑，是一已被核准且廣泛用於癌症治療的細胞毒性藥物，包括大腸癌等。智擎公司希望透過奈米微脂體的技術平台，讓此藥物獲得更有效的運用。",
+                    "智擎完成多項的動物試驗及第一、二期人體臨床試驗（胃癌及胰臟癌），並獲得豐碩的成果。2011年，智擎將PEP02在歐洲及亞洲（台灣除外）之開發、製造與商品化等權利，回饋授權予美國Merrimack公司(NASDAQ: MACK)（專案代號MM-398），並與Merrimack公司合作進行NAPOLI-1全球第三期臨床試驗，該第三期臨床試驗成功證明安能得®在轉移性胰臟癌的治療效果。",
+                    "Merrimack公司於2014年9月將安能得®在美國及台灣以外的區域專屬授權給予美國Baxter公司(NYSE: BAX)，後來於2015年分割為Baxalta公司(NYSE: BALT)。之後，Shire公司(LSE: SHP, NASDQ: SHPG)於2017年6月併購Baxalta公司，後續並將安能得®出售予法國Servier公司。2017年4月Merrimack公司再將其所擁有安能得®與美洲之所有權利售予法國Ipsen公司(ENXTPA: IPN)。因此，現今致力於安能得® ONIVYDE的開發有智擎公司(台灣)、 Servier公司(歐亞區)及Ipsen公司(美洲區)。"
+                ]
+            },
+            {
+                "title": "技術說明 PEP503 (NBTXR3)",
+                "context": [
+                    "放射線治療的作用機轉是使用高能量游離輻射線，當照射在腫瘤細胞時，透過與水分子的交互作用，產生自由基(free radicals) 及活性氧化物質(Reactive oxygen species, ROS)，進而直接或間接地破壞細胞的DNA結構，造成細胞死亡。",
+                    "PEP503是奈米結晶狀之惰性鉿氧化物(nanoparticle formulation of hafnium oxide crystals, HfO2），在局部放射線治療(local radiation treatment)時，注射於腫瘤內的PEP503可做為放射線治療提升劑(radioenhancer)。",
+                    "其主要作用機轉是藉由鉿金屬的高原子序，在放射線(X-Ray)照射時吸收較多的能量，增強局部區域(腫瘤內部)的放射治療效果。相較於水分子， PEP503與放射線的交互作用後提升之療效，學理上可達九倍。"
+                ]
+            }
+        ]
+    },
+    "clinicalDevelopment": {
+        "subject": {
+            "title": "臨床開發",
+            "navText": "臨床開發"
+        },
+        "context": [
+            "智擎公司在過去幾年陸續完成安能得®ONIVYDE多項臨床前試驗及第一期、第二期人體臨床試驗，包括胃癌ヽ大腸直腸癌及胰腺癌，並與授權夥伴合作完成第三期人體臨床試驗。第一個核准適應症是胰腺癌，目前正積極進行其他癌症的人體臨床試驗，未來將有機會繼續增加其他的適應症。先前，第二期胃癌ヽ胰腺癌及大腸直腸癌臨床試驗結果，也分別於2011年及2015年之美國癌症年會胃腸癌會議(ASCO GI Cancers Symposium)與美國癌症年會(ASCO Annual Meeting)上發表。",
+            "2012年1月 智擎公司與美國Merrimack公司合作進行PEP02/MM-398胰腺癌第三期臨床試驗，本項試驗被命名為NAPOLI-1，臨床試驗收案地區包括北美、歐盟、拉丁美洲、澳洲及亞洲，總收案人數417位，2014年5月達成主要試驗目標（primary endpoint)，證明安能得®ONIVYDE®與5-FU/LV合併使用可顯著延長已接受過含標準化療藥物gemcitabine治療失敗後的轉移性胰腺癌患者的壽命。"
+        ]
+    },
+    "clinicalTrialResults": {
+        "subject": {
+            "title": "第三期臨床試驗結果",
+            "navText": "第三期臨床試驗結果"
+        },
+        "context": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis ipsa fugiat exercitationem perferendis error nemo suscipit, maxime repudiandae dignissimos incidunt, id quia enim recusandae tempore esse fuga, ea consectetur placeat dolor adipisci modi labore. Quas earum quis maiores reprehenderit saepe."
+        ]
+    },
+    "marketSize": {
+        "subject": {
+            "navText": "市場規模"
+        },
+        "title": "市場規模",
+        "context": [
+            "安能得®ONIVYDE獲得新藥核准，成為全球第一個也是目前唯一，核准使用在曾接受第一線標準治療藥物gemcitabine失敗後的末期轉移性胰腺癌的新藥。胰臟癌是一個高度惡性的疾病，絕大多數的病人發現時已經是局部侵襲性疾病或已發生轉移。在美國，位居癌症死亡原因之第3位，死亡人數每年約有43,000人，在台灣每年約有1,900人死於該癌症。估計胰腺癌將於2020年超越大腸直腸癌，成為僅次於肺癌之第二大癌症死因。安能得®ONIVYDE用於胰腺癌治療的市場價值將逐年攀升。",
+            "安能得®ONIVYDE可以開發的新適應症除了胰臟癌第一線治療外，也包括大腸直腸癌、胃癌、肺癌與腦癌等。此外，ONIVYDE合併其他抗癌藥物治療癌症病人的機會也非常大。安能得®ONIVYDE極具癌症治療的未來市場價值。"
+        ]
+    },
+    "indicationsDevelopmentStage": {
+        "subject": {
+            "title": "適應症及開發階段",
+            "navText": "適應症及開發階段"
+        },
+        "stages": [
+            "藥物開發階段",
+            "臨床前階段",
+            "臨床一期",
+            "臨床二期",
+            "臨床三期",
+            "新藥查驗登記"
+        ],
+        "indications": {
+            "themeColor": "#3D91F2",
+            "productName": "安能得®",
+            "subtitle": "irinotecan微脂體注射劑",
+            "list": [
+                {
+                    "name": "胰腺癌 (二線)",
+                    "currentStage": "5",
+                    "stageName": "核準"
+                },
+                {
+                    "name": "頭頸癌<br> (單獨放射線治療)**",
+                    "currentStage": "3-4",
+                    "stageName": "臨床二或三期試驗進行中"
+                },
+                {
+                    "name": "小細胞肺癌(二線)",
+                    "currentStage": "3-4",
+                    "stageName": "臨床二或三期試驗進行中"
+                },
+                {
+                    "name": "多項研究者自行發起臨床試驗案",
+                    "currentStage": "2-3",
+                    "stageName": "臨床一或二期試驗設計"
+                }
+            ],
+            "comment": "*與Nanobiotix 合作的臨床試驗 **Nanobiotix 執行的臨床試驗"
+        }
+    },
+    "references": {
+        "subject": {
+            "title": "參考學術資料",
+            "navText": "參考學術資料"
+        },
+        "refData": [
+            {
+                "label": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium ab deserunt fugiat consequuntur error molestiae repellendus reprehenderit ipsam beatae maxime. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At voluptates voluptatum sequi vel cum dolorem architecto explicabo molestias officiis fugit?"
+            },
+            {
+                "label": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus facilis in saepe.",
+                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium ab deserunt fugiat consequuntur error molestiae repellendus reprehenderit ipsam beatae maxime. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At voluptates voluptatum sequi vel cum dolorem architecto explicabo molestias officiis fugit?"
+            },
+            {
+                "label": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat natus accusantium maiores animi sunt temporibus dolor dolore magni aperiam? Alias minus magni repellendus ut quo consectetur!",
+                "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium ab deserunt fugiat consequuntur error molestiae repellendus reprehenderit ipsam beatae maxime. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At voluptates voluptatum sequi vel cum dolorem architecto explicabo molestias officiis fugit?"
+            }
+        ]
+    },
+    "download": {
+        "subject": {
+            "title": "檔案下載",
+            "navText": "檔案下載"
+        },
+        "attachments": [
+            {
+                "href": "javascript:;",
+                "text": "產品仿單"
+            },
+            {
+                "href": "javascript:;",
+                "text": "投可而這自好我"
+            },
+            {
+                "href": "javascript:;",
+                "text": "術子些生著聲父打幾產"
+            },
+            {
+                "href": "javascript:;",
+                "text": "裡大無平各辦為基只形的大"
+            },
+            {
+                "href": "javascript:;",
+                "text": "告念力照難生班亞道問氣表供灣文告"
+            },
+            {
+                "href": "javascript:;",
+                "text": "不最方一存多"
+            }
+        ],
+        "otherProducts": [
+            {
+                "href": "javascript:;",
+                "image": "/images/pep503-ret-768.jpg 768w,/images/pep503-ret-960.jpg 960w,/images/pep503-ret-1536.jpg 1536w",
+                "name": "PEP503"
+            },
+            {
+                "href": "javascript:;",
+                "image": "/images/iStock-1178901711-768.jpg 768w,/images/iStock-1178901711-960.jpg 960w,/images/iStock-1178901711-1536.jpg 1536w",
+                "name": "PEP503"
+            },
+            {
+                "href": "javascript:;",
+                "image": "/images/pep503-ret-768.jpg 768w,/images/pep503-ret-960.jpg 960w,/images/pep503-ret-1536.jpg 1536w",
+                "name": "PEP503"
+            },
+            {
+                "href": "javascript:;",
+                "image": "/images/iStock-1178901711-768.jpg 768w,/images/iStock-1178901711-960.jpg 960w,/images/iStock-1178901711-1536.jpg 1536w",
+                "name": "PEP503"
+            }
+        ]
+    },
+    "goBack": {
+        "href": "/rd",
+        "text": "回研究與發展列表"
+    }
+}

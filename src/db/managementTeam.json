@@ -1,0 +1,36 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "主要經營團隊 - PharmaEngine",
+    "hero": {
+        "title": "主要經營團隊",
+        "image": "/images/iStock-462411043-1242.jpg 1242w,/images/iStock-462411043-1536.jpg 1536w,/images/iStock-462411043-1920.jpg 1920w"
+    },
+    "team": {
+        "members": [
+            {
+                "image": "/images/drhu-320.jpg 320w,/images/drhu-680.jpg 680w,/images/drhu-960.jpg 960w",
+                "name": "胡宇方 博士·藥師",
+                "title": "總經理 智擎公司",
+                "desc": "St John’s University藥劑學博士，曾任職美國Bristol-Myers Squibb公司、Barr Laboratory 公司、Immulogic Pharmaceutical公司等多家國際製藥大廠從事製劑研發，投身製藥工程領域超過20年，專業於藥劑研發與cGMP量產，包含傳統藥劑與高障礙特色藥劑，如微脂體與緩釋注射劑，對於特色藥物製劑的研發具有豐富的經驗。胡博士自1999年加入台灣東洋藥品並建立其研發中心，截至目前已有超過30個處方藥成功上市，其中即包含兩個微脂體注射劑，2017年並創建殷漢生技，擔任董事長，專注於開發特殊劑型新藥。"
+            },
+            {
+                "image": "/images/C-Hubert-Chan-320.jpg 320w,/images/C-Hubert-Chan-680.jpg 680w,/images/C-Hubert-Chan-960.jpg 960w",
+                "name": "詹宗晃 醫師/博士",
+                "title": "臨床研究暨法規處 副總經理",
+                "desc": "美國明尼蘇達大學病理學博士及中山醫學院醫學系學士，腫瘤內科專科醫師，具有豐富的臨床醫療及臨床試驗的經驗，負責參與跨國臨床試驗之設計、監督管理臨床試驗之執行。"
+            },
+            {
+                "image": "/images/C-H-Chang-320.jpg 320w,/images/C-H-Chang-680.jpg 680w,/images/C-H-Chang-960.jpg 960w",
+                "name": "張麒星",
+                "title": "財務暨行政管理處 副總經理",
+                "desc": "台灣大學會計研究所碩士，曾完成十家公司申請上市(櫃)案，二家公司C/B案，五家公司現金增資案、負責管理智擎有關會計、財務及行政等。"
+            },
+            {
+                "image": "/images/Peter-Wu-320.jpg 320w,/images/Peter-Wu-680.jpg 680w,/images/Peter-Wu-960.jpg 960w",
+                "name": "吳兆升",
+                "title": "行銷業務處 資深處長",
+                "desc": "台北醫學院藥學系學士。有多年藥廠業務行銷經驗，曾參與完成癌症標靶藥物於台灣成功上市。負責參與多項新藥開發評估專案，制定藥物行銷策略。"
+            }
+        ]
+    }
+}

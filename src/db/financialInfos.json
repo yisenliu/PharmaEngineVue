@@ -1,0 +1,80 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "財務資訊 - PharmaEngine",
+    "hero": {
+        "title": "財務資訊",
+        "image": "/images/iStock-916803922-1242.jpg 1242w,/images/iStock-916803922-1536.jpg 1536w,/images/iStock-916803922-1920.jpg 1920w"
+    },
+    "financialReport": {
+        "subject": {
+            "title": "財務報告",
+            "navText": "財務報告"
+        },
+        "tabs": [
+            {
+                "id": "monthly",
+                "label": "每月營收"
+            },
+            {
+                "id": "quarterly",
+                "label": "季度財報"
+            },
+            {
+                "id": "annual",
+                "label": "年報"
+            }
+        ],
+        "years": [
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013"
+        ],
+        "attachments": [
+            {
+                "href": "javascript:;",
+                "text": "檔案 1"
+            },
+            {
+                "href": "javascript:;",
+                "text": "檔案 2"
+            },
+            {
+                "href": "javascript:;",
+                "text": "檔案 3"
+            },
+            {
+                "href": "javascript:;",
+                "text": "檔案 4"
+            },
+            {
+                "href": "javascript:;",
+                "text": "檔案 5"
+            }
+        ],
+        "currentOptions": {
+            "tabId": "monthly",
+            "year": "2020"
+        }
+    },
+    "companyStockPrice": {
+        "subject": {
+            "navText": "公司股價",
+            "title": "公司股價"
+        },
+        "links": [
+            {
+                "href": "https://mis.twse.com.tw/stock/fibest.jsp?stock=4162&lang=en_us",
+                "text": "公司股價"
+            },
+            {
+                "href": "https://emops.twse.com.tw/server-java/t58query",
+                "text": "公開資訊觀測站"
+            }
+        ]
+    }
+}

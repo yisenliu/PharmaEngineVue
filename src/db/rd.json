@@ -1,0 +1,182 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "研究與發展 - PharmaEngine",
+    "hero": {
+        "title": "研究與發展",
+        "image": "/images/pixta_44748796_M-1242.jpg 1242w,/images/pixta_44748796_M-1536.jpg 1536w,/images/pixta_44748796_M-1920.jpg 1920w"
+    },
+    "ourRDProject": {
+        "subject": {
+            "navText": "我們的研發專案",
+            "title": "我們的研發專案"
+        },
+        "projects": [
+            {
+                "href": "/rdView",
+                "image": "/images/pep503-contrast-100.jpg 100w,/images/pep503-contrast-200.jpg 200w,/images/pep503-contrast-400.jpg 400w",
+                "heading": "安能得®",
+                "desc": "安能得®（ONIVYDE®），已獲得台灣、美國、歐洲以及其他國家的上市許可，使用於胰腺癌病人在接受過標準藥物gemcitabine失敗後的治療。"
+            },
+            {
+                "href": "/rdView",
+                "image": "/images/pep503-contrast-100.jpg 100w,/images/pep503-contrast-200.jpg 200w,/images/pep503-contrast-400.jpg 400w",
+                "heading": "PEP06",
+                "desc": "PEP06，係為針對癌症療法開發之新成分新藥（NCE)，目前尚在臨床前的階段（preclinical development)。PEP06，係為針對癌症療法開發之新成分新藥（NCE)，目前尚在臨床前的階段（preclinical development)。"
+            },
+            {
+                "href": "/rdView",
+                "image": "/images/pep503-contrast-100.jpg 100w,/images/pep503-contrast-200.jpg 200w,/images/pep503-contrast-400.jpg 400w",
+                "heading": "PEP503",
+                "desc": "PEP503（Hensify®，NBTXR3）為一可與癌症放射線治療合併使用之放射線提升劑，除了已取得歐洲合格產品認證（CE Mark）核准用於軟組織肉瘤病患之治療外，並同時在台灣地區進行直腸癌及頭頸癌第一/二期臨床試驗。PEP503（Hensify®，NBTXR3）為一可與癌症放射線治療合併使用之放射線提升劑，除了已取得歐洲合格產品認證（CE Mark）核准用於軟組織肉瘤病患之治療外，並同時在台灣地區進行直腸癌及頭頸癌第一/二期臨床試驗。"
+            }
+        ]
+    },
+    "indicationsDevelopmentStage": {
+        "subject": {
+            "navText": "適應症及開發階段",
+            "title": "適應症及開發階段"
+        },
+        "stages": [
+            "藥物開發階段",
+            "臨床前階段",
+            "臨床一期",
+            "臨床二期",
+            "臨床三期",
+            "新藥查驗登記"
+        ],
+        "indications": [
+            {
+                "themeColor": "#FAA71D",
+                "productName": "安能得®",
+                "subtitle": "irinotecan微脂體注射劑",
+                "indicationName": "胰腺癌 (二線)",
+                "currentStage": 5,
+                "stageName": "核準",
+                "more": [
+                    {
+                        "label": "更多適應症",
+                        "content": {
+                            "list": [
+                                {
+                                    "name": "頭頸癌<br> (單獨放射線治療)**",
+                                    "currentStage": "3-4",
+                                    "stageName": "臨床二或三期試驗進行中"
+                                },
+                                {
+                                    "name": "小細胞肺癌(二線)",
+                                    "currentStage": "3-4",
+                                    "stageName": "臨床二或三期試驗進行中"
+                                },
+                                {
+                                    "name": "多項研究者自行發起臨床試驗案",
+                                    "currentStage": "2-3",
+                                    "stageName": "臨床一或二期試驗設計"
+                                }
+                            ],
+                            "comment": "*與Nanobiotix 合作的臨床試驗 **Nanobiotix 執行的臨床試驗"
+                        }
+                    }
+                ]
+            },
+            {
+                "themeColor": "",
+                "productName": "PEP503",
+                "subtitle": "奈米化結晶狀鉿氧化物",
+                "indicationName": "胰腺癌 (二線)",
+                "currentStage": "4-5",
+                "stageName": "核準",
+                "more": [
+                    {
+                        "label": "更多適應症",
+                        "content": {
+                            "list": [
+                                {
+                                    "name": "頭頸癌<br> (單獨放射線治療)**",
+                                    "currentStage": "3-4",
+                                    "stageName": "臨床二或三期試驗進行中"
+                                },
+                                {
+                                    "name": "小細胞肺癌(二線)",
+                                    "currentStage": "3-4",
+                                    "stageName": "臨床二或三期試驗進行中"
+                                },
+                                {
+                                    "name": "多項研究者自行發起臨床試驗案",
+                                    "currentStage": "2-3",
+                                    "stageName": "臨床一或二期試驗設計"
+                                }
+                            ],
+                            "comment": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "nounExplanationConnection": {
+        "subject": {
+            "navText": "名詞解釋與連結",
+            "title": "名詞解釋與連結"
+        },
+        "nounExplanations": [
+            {
+                "name": "臨床試驗設計",
+                "desc": [
+                    "臨床試驗的研究設計是決定臨床試驗是否成功的主要關鍵。在試驗的設計時需決定許多重要參數，包括受試者的人數、臨床試驗所需的評估指標與評估時間、依現有之治療資訊來選擇適當的對照組(如果為隨機分配的對照組試驗)、預期的治療效果和採用的統計方法等。"
+                ]
+            },
+            {
+                "name": "樞紐性臨床試驗",
+                "desc": [
+                    "通常第三期臨床試驗所得到結果用以提供給法規主管單位來決定是否核准藥物上市。",
+                    "樞紐性試驗通常是有一個有良好對照組和適當受試者人數的隨機分配試驗，且儘可能採用雙盲的試驗設計。"
+                ]
+            },
+            {
+                "name": "安全監視",
+                "desc": [
+                    "安全監視或藥品安全監視為探討與醫藥產品或藥物之不良反應相關之科學活動，包括收集(collection)、偵測(detection)、評估(assessment)及預防(prevention)不良反應或是其他藥物相關議題。藥品安全監視主要目的藉由可信且平衡的用藥訊息收集，來做藥物使用之風險與效益的評估，以提升病患照顧及藥物使用上的安全性，進而支持國家公衛計畫，減少藥物危害的風險。"
+                ]
+            },
+            {
+                "name": "安全監視",
+                "desc": [
+                    "安全監視或藥品安全監視為探討與醫藥產品或藥物之不良反應相關之科學活動，包括收集(collection)、偵測(detection)、評估(assessment)及預防(prevention)不良反應或是其他藥物相關議題。藥品安全監視主要目的藉由可信且平衡的用藥訊息收集，來做藥物使用之風險與效益的評估，以提升病患照顧及藥物使用上的安全性，進而支持國家公衛計畫，減少藥物危害的風險。"
+                ]
+            },
+            {
+                "name": "安全監視",
+                "desc": [
+                    "安全監視或藥品安全監視為探討與醫藥產品或藥物之不良反應相關之科學活動，包括收集(collection)、偵測(detection)、評估(assessment)及預防(prevention)不良反應或是其他藥物相關議題。藥品安全監視主要目的藉由可信且平衡的用藥訊息收集，來做藥物使用之風險與效益的評估，以提升病患照顧及藥物使用上的安全性，進而支持國家公衛計畫，減少藥物危害的風險。"
+                ]
+            }
+        ],
+        "links": [
+            {
+                "href": "https://clinicaltrials.gov/ct2/home/",
+                "target": "_blank",
+                "text": "CLINICALTRIALS.GOV"
+            },
+            {
+                "href": "javascript:;",
+                "text": "Lorem ipsum dolor sit amet."
+            },
+            {
+                "href": "javascript:;",
+                "text": "台灣癌症醫學會"
+            },
+            {
+                "href": "javascript:;",
+                "text": "台灣癌症醫學會"
+            },
+            {
+                "href": "https://clinicaltrials.gov/ct2/home/",
+                "text": "CLINICALTRIALS.GOV"
+            },
+            {
+                "href": "javascript:;",
+                "text": "台灣癌症醫學會"
+            }
+        ]
+    }
+}

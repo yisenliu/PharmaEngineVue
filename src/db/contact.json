@@ -1,0 +1,142 @@
+{
+    "htmlLang": "zh-Hant123",
+    "docTitle": "聯繫我們 - PharmaEngine",
+    "pageTitle": "聯絡我們",
+    "titleBar": {
+        "subject": "PharmaEngine <br />Inc.",
+        "href": "https://goo.gl/maps/qFavJ4YfE48tJYW56",
+        "image": "/images/map-750.jpg 750w,/images/map-1024.jpg 1024w,/images/map-1536.jpg 1536w"
+    },
+    "form": {
+        "legend": "聯繫我們",
+        "submit": {
+            "text": "寄出"
+        },
+        "status": {
+            "pending": "資料上傳中！<br>請稍候...",
+            "success": "留言已送出！<br>我們將儘快與您聯繫。",
+            "timeout": "很抱歉，您的請求已逾時！<br>請稍候再試。"
+        },
+        "opinion": {
+            "id": "opinion",
+            "name": "opinion",
+            "label": "意見類別",
+            "options": [
+                {
+                    "text": "產品諮詢",
+                    "value": "1"
+                },
+                {
+                    "text": "網站建議",
+                    "value": "2"
+                }
+            ],
+            "selected": "1"
+        },
+        "username": {
+            "id": "username",
+            "name": "username",
+            "label": "您的名字",
+            "placeholder": "請輸入姓名(不可輸入符號)",
+            "required": true,
+            "value": "Yisen 123 中文",
+            "errorType": {
+                "format": "姓名不可輸入符號",
+                "empty": "請輸入姓名"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "company": {
+            "id": "company",
+            "name": "company",
+            "label": "您的公司",
+            "placeholder": "請輸入公司名稱",
+            "required": true,
+            "value": "FMC",
+            "errorType": {
+                "format": "公司名稱格式錯誤",
+                "empty": "請輸入公司名稱"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "email": {
+            "id": "email",
+            "name": "email",
+            "label": "電子郵件",
+            "placeholder": "",
+            "required": true,
+            "value": "123abc中文+us@xxx.xxx",
+            "errorType": {
+                "format": "電子郵件格式錯誤",
+                "empty": "請輸入電子郵件"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "phone": {
+            "id": "phone",
+            "name": "phone",
+            "label": "聯絡電話",
+            "placeholder": "Enter your phone number",
+            "required": true,
+            "value": "095246093",
+            "errorType": {
+                "format": "電話格式錯誤",
+                "empty": "請輸入聯絡電話"
+            },
+            "invalidMsg": null,
+            "valid": null,
+            "detail": null
+        },
+        "companyLocation": {
+            "id": "companyLocation",
+            "name": "companyLocation",
+            "label": "選擇公司所在地",
+            "options": [
+                {
+                    "text": "台灣",
+                    "value": "1"
+                },
+                {
+                    "text": "新加坡",
+                    "value": "2"
+                },
+                {
+                    "text": "日本",
+                    "value": "3"
+                }
+            ],
+            "selected": "1"
+        },
+        "message": {
+            "id": "message",
+            "name": "message",
+            "label": "您的留言",
+            "placeholder": "請說明您詢問的內容",
+            "required": true,
+            "value": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt quod unde, suscipit sunt reiciendis at vero hic recusandae porro ut.\n\nLorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt quod unde, suscipit sunt reiciendis at vero hic recusandae porro ut.",
+            "errorType": {
+                "empty": "請輸入留言"
+            },
+            "invalidMsg": null,
+            "valid": null
+        },
+        "captcha": {
+            "label": "Google驗證",
+            "robot": "你是機器人！",
+            "human": "你是人類！",
+            "siteKey": "6LeaXbUZAAAAANuffXMb32K2RFsyHoBHOtSXN7zZ",
+            "secretKey": "6LeaXbUZAAAAAGLxwUYz4I5q9VrUS0uXD70iIKmB"
+        }
+    },
+    "contactInfo": {
+        "title1": "聯絡資訊",
+        "address": "台灣<br />104台北市<br />民生東路三段10號11樓",
+        "title2": "聯絡方式",
+        "phone": "P +886 2 2515–8228",
+        "fax": "F +886 2 2515–7558",
+        "email": "info@pharmaengine.com"
+    }
+}

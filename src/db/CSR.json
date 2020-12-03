@@ -1,0 +1,113 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "企業社會責任專區 - PharmaEngine",
+    "pageTitle": "企業社會責任專區",
+    "hero": {
+        "title": "獨立董事溝通政策",
+        "image": "/images/iStock-649495828-1242.jpg 1242w,/images/iStock-966481928-1536.jpg 1536w,/images/iStock-966481928-1920.jpg 1920w"
+    },
+    "CIZone": {
+        "subject": {
+            "navText": "企業誠信經營執行情形",
+            "title": "企業誠信經營執行情形"
+        },
+        "context": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio unde similique, tempora blanditiis, beatae adipisci qui aliquid dolorum amet laborum excepturi ad. Iusto, molestias itaque minima fugit similique veniam corporis provident rerum asperiores minus neque eligendi cupiditate omnis autem consequuntur esse illum, ad officia veritatis totam nemo sunt nulla vitae! Eveniet rerum dolorem modi quas! Aliquam voluptates fugiat ratione quam, tempora reiciendis, dolorem architecto."
+    },
+    "CSRReport": {
+        "subject": {
+            "navText": "企業社會責任報告書"
+        },
+        "context": {
+            "heading": "企業社會責任報告書",
+            "desc": "加強企業社會責任資訊揭露，協助編制企業社會責任報告書。本公司每年編制企業社會責任報告書，致力於企業社會責任相關資訊的揭露。",
+            "attachments": [
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任報告書-1"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任報告書-2"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任報告書-3"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任報告書-4"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任報告書-5"
+                },
+                {
+                    "href": "javascript:;",
+                    "text": "企業社會責任報告書-6"
+                }
+            ]
+        }
+    },
+    "CSRZone": {
+        "subject": {
+            "navText": "企業社會責任專區"
+        },
+        "context": [
+            {
+                "heading": "企業社會責任政策、制度、管理方針",
+                "desc": "本公司企業社會責任政策為 「加速新藥上市以延長病人的生命，讓社會更好」。本公司除了積極引入新的癌症新藥研發專案、持續投入癌症新藥的研發外，本公司亦會更加積極投入社會公益活動，秉持取之社會還之社會的企業社會責任，致力於癌症病患照護之推動，持續展現我們對於社會的承諾。"
+            },
+            {
+                "heading": "具體實施計畫與實施成效",
+                "desc": "本公司在從事企業經營時，亦積極實踐企業社會責任，以符合平衡環境、社會及公司治理發展之國際趨勢；同時，並透過企業公民擔當，提升國家經濟貢獻，改善員工、社區、社會之生活品質，促進以企業責任為本的競爭優勢。本公司對於企業社會責任之實踐，包括落實推動公司治理、發展永續環境、維護社會公益與加強企業社會責任資訊揭露。本公司自2011年開始每年編制企業社會責任報告書並發布在公司網站上。"
+            },
+            {
+                "heading": "企業社會責任(CSR)負責單位",
+                "desc": "本公司推動企業社會責任兼職單位為總經理室人資部及財務暨行政管理處。"
+            }
+        ]
+    },
+    "socialServiceEvents": {
+        "subject": {
+            "navText": "社會服務活動"
+        },
+        "context": {
+            "heading": "社會服務活動",
+            "desc": "規劃每年社會服務活動，並鼓勵所有的員工及其家屬參與服務。例如：",
+            "events": [
+                {
+                    "time": "2018/11/16",
+                    "content": "參加「基隆外木山汫水澳」淨灘活動"
+                },
+                {
+                    "time": "2017/09/22",
+                    "content": "『財團法人中華安德烈慈善協會』物資募集及整理活動"
+                },
+                {
+                    "time": "2016/11/11",
+                    "content": "『陽光社會福利基金會』募集發票活動"
+                },
+                {
+                    "time": "2015/10/23",
+                    "content": "參加「北海岸及觀音山國家風景區-麟山鼻」淨灘活動"
+                },
+                {
+                    "time": "2014/10/26",
+                    "content": "參加「基隆外木山汫水澳」淨灘活動"
+                },
+                {
+                    "time": "2018/11/16",
+                    "content": "參加荒野保護協會主辦的「工作假期：三坑友善農法耕地整理棲地維護」等行動"
+                },
+                {
+                    "time": "2018/11/16",
+                    "content": "參加由台灣環境資訊協會所主辦的海客任務-金山國聖埔海灘淨灘以及國際ICC海洋廢棄物監測行動"
+                },
+                {
+                    "time": "2018/11/16",
+                    "content": "參加「2012 Clean Up The World清潔地球 環保台灣」"
+                }
+            ]
+        }
+    }
+}

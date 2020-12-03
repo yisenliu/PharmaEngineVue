@@ -1,0 +1,58 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "新聞發佈 - PharmaEngine",
+    "pageTitle": "新聞發佈",
+    "newsView": {
+        "publishDate": "2020/04/01",
+        "title": "智擎宣布合作夥伴Nanobiotix取得PEP503（NBTXR3, Hensify）的歐盟上市許可",
+        "figure": "/images/pep503-contrast-700.jpg 700w,/images/pep503-contrast-1000.jpg 1000w,/images/pep503-contrast-1420.jpg 1420w,/images/pep503-contrast-1900.jpg 1900w",
+        "download": {
+            "href": "javascript:;",
+            "text": "下載PDF"
+        },
+        "context": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, corrupti. Voluptatem porro deserunt est quisquam iure dolorem illo hic tempore assumenda amet ullam itaque, incidunt quam distinctio provident eum accusantium.",
+        "quote": {
+            "subject": "Lorem ipsum dolor sit amet, adipisicing elit.",
+            "context": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, corrupti. Voluptatem porro deserunt est quisquam iure dolorem illo hic tempore assumenda amet ullam itaque, incidunt quam distinctio provident eum accusantium."
+        },
+        "brief": {
+            "subject": "關於PEP503（NBTXR3, Hensify®）",
+            "context": "PEP503為Nanobiotix公司NanoXray系列產品線的領先開發專案，是一種奈米結晶性的鉿氧化物（hafnium oxide），屬於全球首創（first-in-class）產品，不僅透過提升放射線療效破壞腫瘤細胞，達到局部治療的目的，並藉由提高免疫細胞對腫瘤的攻擊力來殺死轉移癌細胞，達到治療腫瘤遠端轉移病患的目的。智擎公司於2012年8月取得Nanobiotix公司之NBTXR3（即PEP503）在亞太地區進行開發與商業化之專屬授權。除已顯示正面數據之軟組織肉瘤樞紐性臨床試驗，Nanobiotix公司與智擎公司針對PEP503正擴大開發其他適應症之應用，包括頭頸癌、肝癌（轉移性肝癌與肝细胞癌）、直腸癌、攝護腺癌以及併用PD-1抗體於頭頸癌及非小細胞肺癌，皆在進行臨床試驗中。PEP503在歐洲及亞洲部份國家分類認定為第三類醫療器材（class III medical device）。"
+        },
+        "links": [
+            {
+                "href": "javascript:;",
+                "text": "CLINICALTRIALS.GOV"
+            },
+            {
+                "href": "javascript:;",
+                "text": "Sign Up For Our Newsletter"
+            }
+        ],
+        "descs": [
+            {
+                "subject": "關於Study 301（act.in.sarc study）",
+                "context": "本項試驗係為一跨國、隨機、開放性、兩個組別（1:1）之第二/三期臨床試驗，是本公司與授權合作伙伴Nanobiotix公司針對四肢與軀幹罹患局部晚期（locally advanced）軟組織肉瘤的病患，共同進行的一項跨國臨床試驗，病患總收案數180人，其中Nanobiotix公司負責於歐洲地區（10個國家，共36家醫院）收案，而智擎公司作為共同試驗委託者（co-sponsor）則負責在亞太地區收案（澳洲、香港與菲律賓，共7家醫院）。本試驗之全球總試驗主持人為法國居禮研究院Sylvie Bonvalot教授（Head of Sarcoma and Complex Tumor Surgery Unit, Institut Curie, Paris, France）。有關本項試驗之臨床試驗資訊，請參考網址：<a href='https://www.clinicaltrials.gov' target='_blank' rel='noreferrer'>www.clinicaltrials.gov</a>（試驗註冊號：NCT02379845）。"
+            },
+            {
+                "subject": "關於軟組織肉瘤",
+                "context": "軟組織肉瘤為起源於骨外結締組織的罕見惡性腫瘤，佔所有惡性腫瘤的0.7%，可能發生於身體任何部位，但以四肢與軀幹佔比78%最為常見。軟組織肉瘤的常規治療為在可施行的程度下進行廣泛性手術切除（wide margin surgery）並合併放射線療法，但對於處局部晚期（locally advanced）階段的軟組織肉瘤病患，常常面臨手術無法完全切除腫瘤或達到足夠安全邊緣的情形，使得腫瘤局部復發機率提高，進而縮短病患整體存活期。"
+            },
+            {
+                "subject": "關於智擎生技製藥股份有限公司（股票代號：4162)",
+                "context": "智擎公司為一家已邁入產品上市階段並實現獲利的癌症新藥公司，總部位於台灣，並設有法國子公司。智擎公司致力於癌症治療之新藥開發，目前共有三項新藥專案發展中，新藥安能得已獲得台灣、美國、歐洲以及其他國家的上市許可，使用於胰腺癌病人在接受過標準藥物gemcitabine失敗後的治療；PEP503（NBTXR3）除了已顯示正面數據之軟組織肉瘤樞紐性臨床試驗，尚有針對其他癌症的臨床試驗正進行中；PEP06於前臨床試驗階段。"
+            }
+        ],
+        "goBack": {
+            "href": "/news",
+            "text": "回新聞發佈列表"
+        },
+        "contact": {
+            "subject": {
+                "href": "tel:+8862-2515-8228p700",
+                "text": "聯絡我們"
+            },
+            "window": "張麒星<br />財務暨行政副總經理<br />TEL +886 2 2515 8228, ext. 700"
+        }
+    }
+}

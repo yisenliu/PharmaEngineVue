@@ -1,0 +1,103 @@
+{
+    "htmlLang": "zh-Hant",
+    "docTitle": "智擎生技 - PharmaEngine",
+    "swiper": [
+        {
+            "theme": "dark",
+            "image": "/images/iStock-1066935970-1242.jpg 1242w,/images/iStock-1066935970-1536.jpg 1536w,/images/iStock-1066935970-1920.jpg 1920w",
+            "animateElements": {
+                "subtitle": "NEW DRUGS FOR THE TREATMENT OF CANCER",
+                "heading": "智擎生技<br />We Race With You",
+                "more": "探索更多",
+                "href": "javascript:;"
+            }
+        },
+        {
+            "theme": "dark",
+            "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
+        },
+        {
+            "theme": "dark",
+            "video": "https://youtu.be/p_zaoeGn6CQ"
+        },
+        {
+            "theme": "light",
+            "image": "/images/Onivyde-Test-Margin-sw-bg-portrait-1242.jpg 1242w,/images/Onivyde-Test-Margin-sw-bg-portrait-1536.jpg 1536w,/images/Onivyde-Test-Margin-sw-bg-portrait-1920.jpg 1920w",
+            "animateElements": {
+                "subtitle": "治療癌症藥品",
+                "heading": "安能得<sup>&reg;</sup><br />革命性藥品",
+                "more": "探索安能得",
+                "href": "javascript:;"
+            }
+        },
+        {
+            "theme": "dark",
+            "image": "/images/pep503-contrast-1242.jpg 1242w,/images/pep503-contrast-1536.jpg 1536w,/images/pep503-contrast-1920.jpg 1920w",
+            "animateElements": {
+                "subtitle": "放射線治療的新概念",
+                "heading": "突破性<br />癌症治療",
+                "more": "探索PEP503",
+                "href": "javascript:;"
+            }
+        }
+    ],
+    "primaryLinks": [
+        {
+            "image": "/images/pixta_48065789_M-600.jpg 600w,/images/pixta_48065789_M-1070.jpg 1070w,/images/pixta_48065789_M-1420.jpg 1420w,",
+            "caption": "沿革與里程碑",
+            "href": "/historyMilestones"
+        },
+        {
+            "image": "/images/DSC09570-color-mod-contrast-intense-1070.jpg 1070w,/images/DSC09570-color-mod-contrast-intense-1230.jpg 1230w,/images/DSC09570-color-mod-contrast-intense-1420.jpg 1420w,",
+            "caption": "安能得",
+            "href": "javascript:;"
+        }
+    ],
+    "secondaryLinks": [
+        {
+            "video": "https://youtu.be/p_zaoeGn6CQ"
+        },
+        {
+            "image": "/images/pixta_44748796_M-600.jpg 600w,/images/pixta_44748796_M-1070.jpg 1070w,/images/pixta_44748796_M-1420.jpg 1420w,",
+            "caption": "研究與發展",
+            "href": "javascript:;"
+        },
+        {
+            "image": "/images/iStock-182504104-600.jpg 600w,/images/iStock-182504104-1070.jpg 1070w,/images/iStock-182504104-1420.jpg 1420w,",
+            "caption": "法人說明會訊息",
+            "href": "javascript:;"
+        },
+        {
+            "image": "/images/iStock-846109812-600.jpg 600w,/images/iStock-846109812-1070.jpg 1070w,/images/iStock-846109812-1420.jpg 1420w,",
+            "caption": "公司組織",
+            "href": "javascript:;"
+        },
+        {
+            "image": "/images/pixta_21086283_M-600.jpg 600w,/images/pixta_21086283_M-1070.jpg 1070w,/images/pixta_21086283_M-1420.jpg 1420w,",
+            "caption": "合作夥伴",
+            "href": "javascript:;"
+        },
+        {
+            "image": "/images/iStock-499421001-600.jpg 600w,/images/iStock-499421001-1070.jpg 1070w,/images/iStock-499421001-1420.jpg 1420w,",
+            "caption": "聯繫我們",
+            "href": "javascript:;"
+        }
+    ],
+    "news": [
+        {
+            "href": "/newsView",
+            "title": "智擎合作夥伴Ipsen與Servier於世界肺癌大會發表安能得於二線小細胞肺癌之第二/三期臨床試驗第一階段初步正向數據，並宣布進入第二階段病患收案",
+            "date": "2019-09-10"
+        },
+        {
+            "href": "/newsView",
+            "title": "智擎產品安能得及Hensify臨床試驗於ASCO年會告捷",
+            "date": "2019-06-04"
+        },
+        {
+            "href": "/newsView",
+            "title": "智擎宣布合作夥伴Nanobiotix取得PEP503（NBTXR3, Hensify）的歐盟上市許可",
+            "date": "2019-04-07"
+        }
+    ]
+}
