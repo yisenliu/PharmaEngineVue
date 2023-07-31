@@ -13,7 +13,7 @@
     "license": "MIT",
     "devDependencies": {
         "@babel/core": "^7.7.5",
-        "@babel/plugin-transform-runtime": "^7.7.6",
+        "@babel/plugin-transform-runtime": "^7.22.9",
         "@babel/preset-env": "^7.7.6",
         "@vue/eslint-config-prettier": "^6.0.0",
         "autoprefixer": "^9.7.3",
