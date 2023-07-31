@@ -33,7 +33,7 @@
         "external-svg-sprite-loader": "^5.0.1",
         "favicons-webpack-plugin": "^4.2.0",
         "fibers": "^4.0.2",
-        "file-loader": "^5.0.2",
+        "file-loader": "^6.2.0",
         "friendly-errors-webpack-plugin": "^1.7.0",
         "fs": "^0.0.1-security",
         "group-css-media-queries-loader": "^3.0.2",
