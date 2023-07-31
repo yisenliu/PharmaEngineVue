@@ -81,7 +81,7 @@
         "style-loader": "^1.2.1",
         "svg-inline-loader": "^0.8.2",
         "terser-webpack-plugin": "^2.3.0",
-        "url-loader": "^4.1.0",
+        "url-loader": "^4.1.1",
         "vue-eslint-parser": "^7.1.0",
         "vue-loader": "^15.9.3",
         "vue-style-loader": "^4.1.2",
